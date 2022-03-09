@@ -138,8 +138,19 @@ img.teaser:hover {
     margin: 1.2em 0;
     text-align: right;
     font-size: 1.2em;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
 }
 
-#paging a {
+#paging a:first-child {
+    text-align: left;
+    
+}
+
+#paging a, #readMore a {
     text-decoration: none;
+}
+
+#readMore {
+    text-align: right;
 }

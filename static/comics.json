@@ -132,6 +132,22 @@
     "description": "Zeno plugs into sports",
     "images": [ "Tech_Games_2018.png" ]
     },
+
+    {
+    "slug": "military-parade",
+    "title": "Propped Up",
+    "series": "blab",
+    "description": "Zeno props up Herr Trump",
+    "images": [ "Military_Parade.png" ]
+    },
+
+    {
+    "slug": "amazon-watch",
+    "title": "You're Being Watched",
+    "series": "blab",
+    "description": "Somebody's watching you",
+    "images": [ "Amazon_Patent.png" ]
+    },
     
     {
     "slug": "prostetic-brain",

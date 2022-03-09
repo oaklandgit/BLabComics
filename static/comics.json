@@ -164,6 +164,38 @@
     "description": "Zeno's new iPhone for kids!",
     "images": [ "non-addictive-iPhone.png" ]
     },
+
+    {
+    "slug": "doomsday-clock",
+    "title": "The Final Countdown",
+    "series": "blab",
+    "description": "Zeno learns you can’t turn back time",
+    "images": [ "Doomsday.png" ]
+    },
+
+    {
+    "slug": "president-jello",
+    "title": "Watch it Wiggle",
+    "series": "blab",
+    "description": "See how Trump's politics solidify",
+    "images": [ "Jello.png" ]
+    },
+
+    {
+    "slug": "shithol-president",
+    "title": "About that Umlaut&hellip;",
+    "series": "blab",
+    "description": "Gr&euml;et Gr&euml;ta!",
+    "images": [ "Greta_from_Norway.png" ]
+    },
+
+    {
+    "slug": "timeboxed",
+    "title": "Out of the Box Thinking",
+    "series": "blab",
+    "description": "U-Gene is definitely gonna write that book",
+    "images": [ "Timeboxed.png" ]
+    },
     
     {
     "slug": "prostetic-brain",

@@ -148,6 +148,22 @@
     "description": "Somebody's watching you",
     "images": [ "Amazon_Patent.png" ]
     },
+
+    {
+    "slug": "deep-state",
+    "title": "Going Deep",
+    "series": "blab",
+    "description": "Zeno goes deep",
+    "images": [ "Deep_State.png" ]
+    },
+
+    {
+    "slug": "bricked-iphone",
+    "title": "The Apple Doesn't Fall Far from the Tree",
+    "series": "blab",
+    "description": "Zeno's new iPhone for kids!",
+    "images": [ "non-addictive-iPhone.png" ]
+    },
     
     {
     "slug": "prostetic-brain",

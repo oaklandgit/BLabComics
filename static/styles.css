@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&family=Hubballi&display=swap');
+
+* {
+    font-family: 'Hubballi', sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 106%;
+}
+
+p {
+    margin-bottom: 1em;
+}
+
+a {
+    color: inherit;
+}
+
+a:hover {
+    color: #417fe1;
+}
+
+h1, h2 {
+    font-size: 1.6em;
+    margin-bottom: 1em;
+}
+
+header {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-bottom: 2em;
+    padding-bottom: 1em;
+    align-items: center;
+    border-bottom: 1px solid #d6d6d6;
+}
+
+nav {
+    text-align: right;
+}
+
+section {
+    margin-bottom: 1em;
+}
+
+section img {
+    width: 100%;
+}
+
+#container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+footer {
+    margin: 3em 0;
+    padding: 2em 0;
+    border-top: 1px solid #d6d6d6;
+    
+}
+
+#logo a {
+    font-size: 2.8em;
+    font-family: Staatliches;
+    line-height: 0.8em;
+    background: -webkit-linear-gradient(20deg, #41c1e1, #ff00f7);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+nav a {
+    font-size: 1.6em;
+    font-family: Staatliches;
+}
+
+header a, h1 a, h2 a {
+    text-decoration: none;
+}
+
+header nav {
+    justify-content: end;
+}
+
+nav li {
+    display: inline;
+}
+
+content {
+    width: 100%;
+    padding: 0 auto;
+}
+
+content img {
+    display: block;
+}
+
+.imageGroup img:not(:first-child) {
+    margin-top: 2em
+}
+
+img.teaser {
+    object-fit: cover;
+    border-radius: 50%;
+    border: 8px solid #d6d6d6;
+    aspect-ratio: 1/1;
+}
+
+img.teaser:hover {
+    border-color: #417fe1;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2em;
+    margin-bottom: 2em;
+    justify-items: center;
+}
+
+@media(max-width:540px) {
+    
+    #container {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 1em;
+    }
+    
+    .gallery {
+        gap: 1em;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    img.teaser {
+        border: 6px solid #d6d6d6;
+    }
+}
+
+#paging {
+    margin: 1.2em 0;
+    text-align: right;
+    font-size: 1.2em;
+}
+
+#paging a {
+    text-decoration: none;
+}

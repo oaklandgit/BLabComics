@@ -1,0 +1,176 @@
+[
+    
+    {
+    "slug": "blue-hulk",
+    "title": "Blue Hulk!",
+    "series": "blab",
+    "description": "Blue Hulk is a smashing success!",
+    "images": [ "Hulk_Smash.png" ]
+    },
+
+    {
+    "slug": "vote-in-time",
+    "title": "Vote In Time!",
+    "series": "blab",
+    "description": "Vote. The future depends on it",
+    "images": [ "Time_To_Vote_2.png" ]
+    },
+
+    {
+    "slug": "thoughts-and-prayers",
+    "title": "Thoughts and Prayers",
+    "series": "blab",
+    "description": "Zeno turns lemons into… ahhh who cares",
+    "images": [ "Thoughts_and_Prayers.png" ]
+    },
+
+    {
+    "slug": "space-force",
+    "title": "Space Force",
+    "series": "blab",
+    "description": "Zeno hopes to make some coin off Space Force",
+    "images": [ "Space_Force.png" ],
+    "markdown": "Commander-in-Chief Trump ain't interested in any of that *For All Mankind* kumbaya shit. His [Space Force](https://www.nytimes.com/2018/06/18/us/politics/trump-space-force-sixth-military-branch.html)  will DOMINATE the universe with his brand of toxic masculinity, over-compensation for tiny hands, and aversion to even attemp to understand how things work."
+    },
+
+    {
+    "slug": "scott-pruitt",
+    "title": "Scott Pruitt Didn't Doitt",
+    "series": "blab",
+    "description": "In defense of Scott Pruitt",
+    "images": [ "Pruitt.png" ],
+    "markdown": "Trump's EPA chief Scott Pruitt [reportedly](https://www.cnn.com/2018/04/06/politics/scott-pruitt-controversies-list/index.html) had his security detail drive him around looking for lotion from D.C.-area Ritz-Carltons, had a staffer reach out to the Trump Hotel to purchase one of their mattresses, and hit up oil and gas companies for tickets to the Rose Bowl. But of course there's a logical explanation for all that, since we all know he was too focused on his job."
+    },
+
+    {
+    "slug": "korea-summit",
+    "title": "Science is Real",
+    "series": "blab",
+    "description": "Trump just needs some extra help",
+    "images": [ "Science_Advisor.png" ]
+    },
+
+    {
+    "slug": "presidential-powers",
+    "title": "Presidential Powers",
+    "series": "blab",
+    "description": "Zeno tests the limits of presidential powers",
+    "images": [ "Presidential_Powers.png" ],
+    "markdown": "Trump [reportedly](https://www.npr.org/2021/01/09/955087860/can-trump-pardon-himself) asked aides whether a President can pardon oneself. I suppose he was asking for a friend."
+    },
+
+    {
+    "slug": "google-ai-drone",
+    "title": "Droning On",
+    "series": "blab",
+    "description": "The B-Lab team learns to \"fake it 'til you make it\"",
+    "images": [ "ai_drone_01.png", "ai_drone_02.png" ],
+    "markdown": "When Google failed to secure a lucritive Pentagon contract due to their [pesky employees' standards of ethics](https://www.washingtonpost.com/news/the-switch/wp/2018/06/01/google-to-drop-pentagon-ai-contract-after-employees-called-it-the-business-of-war/), Zeno, who has no such standards, cashes in."
+    },
+
+    {
+    "slug": "commuter-scooter-polluter",
+    "title": "Commuter Scooter Polluter",
+    "series": "blab",
+    "description": "U-Gene becomes a Commuter Scooter Polluter",
+    "images": [ "Scooter.png" ]
+    },
+
+    {
+    "slug": "facebook-collects-your-face",
+    "title": "DNA, MUA, Oy Vey",
+    "series": "blab",
+    "description": "U-Gene signs a DNA MUA",
+    "images": [ "Facebook_Data_01.png", "Facebook_Data_02.png" ]
+    },
+
+    {
+    "slug": "smoking-gun",
+    "title": "Say Hello to my Little Friend",
+    "series": "blab",
+    "description": "Ammo! Pills! Booze!",
+    "images": [ "Smoking_Gun.png" ]
+    },
+
+    {
+    "slug": "shape-of-water",
+    "title": "Tanks for the memories!",
+    "series": "blab",
+    "description": "Zeno goes \"Bacta\" 1980!",
+    "images": [ "Shape_Of_Water.png" ]
+    },
+
+    {
+    "slug": "trump-card",
+    "title": "Loyaly has its discords",
+    "series": "blab",
+    "description": "Zeno plays the Trump card",
+    "images": [ "Loyalty_Program.png" ],
+    "markdown": "It always amazed me how people stay loyal to Trump even as he publicly humiliates them. I wonder, what dirt he must have had on Jeff Sessions to keep his Attorney General puckering up despite the [well-documented verbal abuse](https://www.cnn.com/2018/02/28/politics/donald-trump-jeff-sessions-feud/index.html)?"
+    },
+
+    {
+    "slug": "wakandan-tech",
+    "title": "Not suitable for the MCU",
+    "series": "blab",
+    "description": "U-Gene tempts a Marvel suit",
+    "images": [ "Wakandan_Tech.png" ]
+    },
+
+    {
+    "slug": "gun-lobby",
+    "title": "Kicking back in the Gun Lobby",
+    "series": "blab",
+    "description": "Firing back at the NRA",
+    "images": [ "Gun_Lobby_01.png", "Gun_Lobby_02.png", "Gun_Lobby_03.png" ]
+    },
+
+    {
+    "slug": "tech-games",
+    "title": "Tech Games 2018",
+    "series": "blab",
+    "description": "Zeno plugs into sports",
+    "images": [ "Tech_Games_2018.png" ]
+    },
+    
+    {
+    "slug": "prostetic-brain",
+    "title": "Prosthetic Brain",
+    "series": "misc",
+    "description": "My Brain Takes a Hiatus",
+    "images": [ "brain1.png", "brain2.png", "brain3.png", "brain4.png", "brain5.png", "brain6.png", "brain7.png", "brain8.png", "brain9.png" ]
+    },
+
+    {
+    "slug": "subway-religion",
+    "title": "Subway Religion",
+    "series": "misc",
+    "description": "Plagues! Pestilence! Guilt! It's the Subway!",
+    "images": [ "subway_religion.jpg" ]
+    },
+
+    {
+    "slug": "talking-clock-chronicles",
+    "title": "The Talking Clock Chronicles",
+    "series": "pineapple",
+    "description": "Unusual is This Fun Clock!",
+    "images": [ "talking_clock_01.png", "talking_clock_02.png" ]
+    },
+
+    {
+    "slug": "removing-george-hw-bush",
+    "title": "Removing George H.W. Bush from the Oval Office",
+    "series": "patent",
+    "description": "Removing George H.W. Bush from office",
+    "images": [ "removing-bush.jpg" ],
+    "markdown": "**Here's how it works:** When lame-duck president signs pardons, scale **(A) ** tips, lifting cover off Hillary Clinton's superior cookies **(B)**. Angered, Barbara reaches for her spatula **(C)**, tugging typewriter **(D)** away from Millie who is scribing her tell-all autobiography *How I Ran the Presidency Without Even Getting a Biscuit.* Millie rushes for the typewriter, causing leash **(E)** to pull trap-door lever **(F)**, sending George Bush into a bottomless pit of obscurity where Reagan, Carter, Ford and Nixon await him."
+    },
+
+    {
+    "slug": "mad-man-dans-internet",
+    "title": "The Internet in 6 Easy Steps",
+    "series": "misc",
+    "description": "Man Man Dan blows a fuse",
+    "images": [ "madman_dan.jpg" ]
+    }
+]

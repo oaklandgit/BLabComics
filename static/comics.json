@@ -196,6 +196,30 @@
     "description": "U-Gene is definitely gonna write that book",
     "images": [ "Timeboxed.png" ]
     },
+
+    {
+    "slug": "baby-proofed-whitehouse",
+    "title": "Baby-Proofing the White House",
+    "series": "blab",
+    "description": "Baby-proofing the White House",
+    "images": [ "baby_proofed.png" ]
+    },
+
+    {
+    "slug": "blade-runner",
+    "title": "Blade Ruiner",
+    "series": "blab",
+    "description": "New version of Blade Runner!",
+    "images": [ "blade_runner.png" ]
+    },
+
+    {
+    "slug": "tax-reform",
+    "title": "Massive Changes",
+    "series": "blab",
+    "description": "Massive changes to the tax code",
+    "images": [ "tax_reform.png" ]
+    },
     
     {
     "slug": "prostetic-brain",

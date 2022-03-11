@@ -5,6 +5,6 @@
     </a>
     "{{ item.description }}"</h2>
     {% for image in item.images %}
-        <img src="{{ url_for('static', filename='images/' ~ image) }}">
+        <img src="{{ url_for('static', filename='full/' ~ image) }}">
     {% endfor %}
 </article>

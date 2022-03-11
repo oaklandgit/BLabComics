@@ -14,7 +14,7 @@
 
 <div class="imageGroup">
 {% for image in item.images %}
-    <img src="{{ url_for('static', filename='images/' ~ image) }}" alt="{{ item.description }}">
+    <img src="{{ url_for('static', filename='full/' ~ image) }}" alt="{{ item.description }}">
 {% endfor %}
 </div>
 

@@ -1,5 +1,6 @@
 import os, json, markdown
 from flask import Flask, render_template
+# import flask_resize
 
 app = Flask('app')
 
@@ -16,6 +17,10 @@ def getItems(path):
 CONTENT = 'comics.json'
 JSON_PATH = os.path.join(app.static_folder, CONTENT)
 ITEMS = getItems(JSON_PATH)
+
+# app.config['RESIZE_URL'] = 'https://blabcomics.larrystone.repl.com/'
+# app.config['RESIZE_ROOT'] = '//static/images'
+# resize = flask_resize.Resize(app)
 
 @app.route('/')
 def home():

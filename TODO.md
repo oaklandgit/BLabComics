@@ -1,3 +1,4 @@
+- ~~resize and crop thumbnail images locally with imagemagick~~
 - popover text for teasers?
 https://codepen.io/chocochip/pen/zYxMgRG
 

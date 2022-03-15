@@ -15,13 +15,7 @@ Home
 <section>
 
 <h1>More Hilarity</h1>
-<div class="gallery">
-{% for item in featured %}
-    <a href="/comics/{{ item.slug }}">
-        <img class="teaser" src="{{ url_for('static', filename='thumbs2x/' ~ item.images[0]) }}">
-    </a>
-{% endfor %}
-</div>
+{% include 'snippets/gallery.jinja' %}
 
 <div id="readMore">
     <a href="/comics">Browse the Archives &rarr;</a>

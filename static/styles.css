@@ -13,6 +13,7 @@ p {
 
 a {
     color: inherit;
+    font-family: inherit;
 }
 
 a:hover {
@@ -29,7 +30,7 @@ header {
     grid-template-columns: repeat(2, 1fr);
     margin-bottom: 2em;
     padding-bottom: 1em;
-    align-items: center;
+    align-items: end; 
     border-bottom: 1px solid #d6d6d6;
 }
 
@@ -58,7 +59,7 @@ footer {
     
 }
 
-#logo a {
+#logo {
     font-size: 2.8em;
     font-family: Staatliches;
     line-height: 0.8em;
@@ -67,9 +68,19 @@ footer {
     -webkit-text-fill-color: transparent;
 }
 
-nav a {
-    font-size: 1.6em;
+nav li {
+    display: inline;
+    font-size: 1.4em;
     font-family: Staatliches;
+}
+
+nav li::after {
+    content: "•";
+    padding: 0 0.1em 0 0.3em;
+}
+
+nav li:last-child::after {
+    content: none;
 }
 
 header a, h1 a, h2 a {
@@ -80,9 +91,6 @@ header nav {
     justify-content: end;
 }
 
-nav li {
-    display: inline;
-}
 
 content {
     width: 100%;
@@ -131,6 +139,14 @@ img.teaser:hover {
 
     img.teaser {
         border: 6px solid #d6d6d6;
+    }
+
+    #logo {
+        font-size: 2.2em;
+    }
+
+    nav li {
+        font-size: 1.2em;
     }
 }
 

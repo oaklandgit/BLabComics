@@ -8,13 +8,7 @@ Archives
 
 {% for series, items in items | groupby('series') %}
     <h1>{{ groupLabels[series] }}</h1>
-    <div class="gallery">
-    {% for item in items %}
-        <a href="/comics/{{ item.slug }}">
-        <img class="teaser" src="{{ url_for('static', filename='thumbs2x/' ~ item.images[0]) }}">
-    </a>
-    {% endfor %}
-    </div>
+    {% include 'snippets/gallery.jinja' %}
 {% endfor %}
 
 

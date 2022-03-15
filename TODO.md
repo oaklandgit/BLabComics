@@ -9,4 +9,16 @@ https://www.adamsmith.haus/python/answers/how-to-take-a-subset-of-a-dictionary-i
 - Add more content
   
 - ~~Group by tag (e.g. "B-Lab", "One-pages", "I Am a Pineapple", etc.)~~
-- 
+
+
+# NOTES
+
+Making thumbnails:
+```
+mogrify -resize 480x480^ -gravity center -extent 440x440 *
+```
+
+Making fulls:
+```
+mogrify -resize 1920x\> * 
+```

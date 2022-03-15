@@ -7,13 +7,6 @@
 {% block content %}
 
 <h1>More {{ groupLabels[seriesId] }}</h1>
-
-<div class="gallery">
-{% for item in items %}
-    <a href="/comics/{{ item.slug }}">
-    <img class="teaser" src="{{ url_for('static', filename='thumbs2x/' ~ item.images[0]) }}">
-</a>
-{% endfor %}
-</div>
+{% include 'snippets/gallery.jinja' %}
 
 {% endblock %}

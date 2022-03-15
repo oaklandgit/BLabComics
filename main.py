@@ -1,6 +1,5 @@
 import os, json, markdown
 from flask import Flask, render_template
-# import flask_resize
 
 app = Flask('app')
 
@@ -18,14 +17,9 @@ CONTENT = 'comics.json'
 JSON_PATH = os.path.join(app.static_folder, CONTENT)
 ITEMS = getItems(JSON_PATH)
 
-# app.config['RESIZE_URL'] = 'https://blabcomics.larrystone.repl.com/'
-# app.config['RESIZE_ROOT'] = '//static/images'
-# resize = flask_resize.Resize(app)
-
 @app.route('/')
 def home():
-    featured = ITEMS[1:9]
-    return render_template('home.jinja', items=ITEMS, featured=featured)
+    return render_template('home.jinja', hero=ITEMS[0], items=ITEMS[1:9])
     
 @app.route('/comics/')
 def archives():
@@ -33,8 +27,7 @@ def archives():
 
 @app.route('/comics/series/<seriesId>/')
 def category(seriesId):
-    items = [row for row in ITEMS if row['series'] == seriesId]
-    return render_template('series.jinja', items=items, seriesId=seriesId)
+    return render_template('series.jinja', items=[row for row in ITEMS if row['series'] == seriesId], seriesId=seriesId)
 
 @app.route('/comics/<slug>/')
 def detail(slug):

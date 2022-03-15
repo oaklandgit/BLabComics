@@ -222,6 +222,30 @@
     },
     
     {
+    "slug": "im-from-nambia",
+    "title": "Fantastic Places!",
+    "series": "blab",
+    "description": "Petra brings home more refugees!",
+    "images": [ "nambia.png" ]
+    },
+    
+    {
+    "slug": "face-id",
+    "title": "Face-off",
+    "series": "blab",
+    "description": "How to use Face ID",
+    "images": [ "Face_ID.png" ]
+    },
+
+    {
+    "slug": "equifax-data-breach",
+    "title": "The 'fax Guarding the Henhouse",
+    "series": "blab",
+    "description": "Understanding the Equifax data breach",
+    "images": [ "Equifax.png" ]
+    },
+    
+    {
     "slug": "prostetic-brain",
     "title": "Prosthetic Brain",
     "series": "misc",

@@ -74,6 +74,10 @@ nav li {
     font-family: Staatliches;
 }
 
+nav li.current a {
+    border-bottom: 2px solid black;
+}
+
 nav li::after {
     content: "•";
     padding: 0 0.1em 0 0.3em;

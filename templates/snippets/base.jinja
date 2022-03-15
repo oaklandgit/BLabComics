@@ -25,8 +25,9 @@
     <span id="logo"><a href="/">Larry Stone</a></span>
     <nav>
     <ul>
-    {% for href, caption in [('/comics', 'Comics'), ('/game', 'Game'), ('/about', 'Me')] %}
-        <li><a href="{{ href }}">{{ caption }}</a></li>
+    {% for href, caption in [('comics', 'Comics'), ('game', 'Game'), ('about', 'Me')] %}
+        {% set current = request.path.split('/') %}
+        <li{% if href == current[1] %} class="current" {% endif %}><a href="/{{ href }}">{{ caption }}</a></li>
     {% endfor %}
     </ul>
     </nav>

@@ -43,16 +43,48 @@
     },
 
     {
-    "slug": "korea-summit",
-    "title": "Science is Real",
+    "slug": "roomba-with-a-view",
+    "title": "A Roomba with a View",
     "series": "blab",
-    "description": "Trump just needs some extra help",
-    "images": [ "Science_Advisor.png" ]
+    "description": "",
+    "images": [ "Roomba_01.png", "Roomba_02.png", "Roomba_03.png", "Roomba_04.png" ]
     },
-
+    
+    {
+    "slug": "ironic-dome",
+    "title": "Iron-ic Dome",
+    "series": "blab",
+    "description": "Saber Rattling!",
+    "images": [ "Iron-ic_Dome.png" ]
+    },
+    
+    {
+    "slug": "totally-eclipsed",
+    "title": "Trump gets Eclipsed",
+    "series": "blab",
+    "description": "How to watch a Solar Eclipse",
+    "images": [ "Polarized.png" ]
+    },
+    
+    {
+    "slug": "korea-military-options",
+    "title": "Drawing a Blank",
+    "series": "blab",
+    "description": "Military options for the Korean conflict",
+    "images": [ "Military_Options.png", "Science_Advisor.png" ]
+    },
+    
+    {
+    "slug": "red-sox-cheaters",
+    "title": "Diamonds in the Rough",
+    "series": "blab",
+    "description": "Zeno's Sports Clinic",
+    "images": [ "RedSox.png" ]    
+    },
+    
     {
     "slug": "presidential-powers",
-    "title": "Presidential Powers",
+    "title": "Pardon Me?",
     "series": "blab",
     "description": "Zeno tests the limits of presidential powers",
     "images": [ "Presidential_Powers.png" ],
@@ -159,7 +191,7 @@
 
     {
     "slug": "bricked-iphone",
-    "title": "The Apple Doesn't Fall Far from the Tree",
+    "title": "Another Brick in the Wall",
     "series": "blab",
     "description": "Zeno's new iPhone for kids!",
     "images": [ "non-addictive-iPhone.png" ]
@@ -183,7 +215,7 @@
 
     {
     "slug": "shithol-president",
-    "title": "About that Umlaut&hellip;",
+    "title": "About that Umla&uuml;t&hellip;",
     "series": "blab",
     "description": "Gr&euml;et Gr&euml;ta!",
     "images": [ "Greta_from_Norway.png" ]

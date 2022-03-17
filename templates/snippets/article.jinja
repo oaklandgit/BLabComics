@@ -3,7 +3,7 @@
     <a href="/comics/series/{{ item.series }}">
     {{ groupLabels[item.series] }}:
     </a>
-    "{{ item.description }}"
+    "{{ item.title}}"
     </h2>
     {% for image in item.images %}
         <img src="{{ url_for('static', filename='full2x/' ~ image) }}">

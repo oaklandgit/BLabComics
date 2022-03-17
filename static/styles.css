@@ -109,15 +109,39 @@ content img {
     margin-top: 2em
 }
 
-img.teaser {
-    object-fit: cover;
-    border-radius: 50%;
-    border: 8px solid #d6d6d6;
-    aspect-ratio: 1/1;
+.galleryItem {
+    position: relative;
+    transition-property: transform;
+    transition-duration: 0.1s;
 }
 
-img.teaser:hover {
-    border-color: #417fe1;
+.galleryCaption {
+    position: absolute;
+    bottom: 12px;
+    left: 3%;
+    width: 85%;
+    margin: 0 auto;
+    border: 2px solid black;
+    background-color: white;
+    text-align: center;
+    z-index: 100;
+    cursor: pointer;
+    padding: 0.3em;
+    border-radius: 6px;
+    color: black;
+}
+
+
+
+img.teaser {
+    object-fit: cover;
+    border-radius: 3px;
+    aspect-ratio: 1/1;
+    filter: grayscale(100%) brightness(97%);
+}
+
+.galleryItem:hover {
+    transform: scale(1.06)
 }
 
 .gallery {

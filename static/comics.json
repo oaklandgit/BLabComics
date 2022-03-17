@@ -2,7 +2,7 @@
     
     {
     "slug": "blue-hulk",
-    "title": "Blue Hulk!",
+    "title": "A Smashing Success!",
     "series": "blab",
     "description": "Blue Hulk is a smashing success!",
     "images": [ "Hulk_Smash.png" ]
@@ -10,7 +10,7 @@
 
     {
     "slug": "vote-in-time",
-    "title": "Vote In Time!",
+    "title": "Time to Vote!",
     "series": "blab",
     "description": "Vote. The future depends on it",
     "images": [ "Time_To_Vote_2.png" ]
@@ -26,7 +26,7 @@
 
     {
     "slug": "space-force",
-    "title": "Space Force",
+    "title": "Space Farce",
     "series": "blab",
     "description": "Zeno hopes to make some coin off Space Force",
     "images": [ "Space_Force.png" ],
@@ -303,7 +303,7 @@
 
     {
     "slug": "removing-george-hw-bush",
-    "title": "Removing George H.W. Bush from the Oval Office",
+    "title": "Bush Removal",
     "series": "patent",
     "description": "Removing George H.W. Bush from office",
     "images": [ "removing-bush.jpg" ],

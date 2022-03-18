@@ -1,6 +1,6 @@
 {% set groupLabels = ({
-    "blab":"B-Lab",
-    "misc": "Random",
+    "blab":"From the Vault",
+    "misc": "More Random Nonsense",
     "pineapple": "I Am a Pineapple",
     "patent": "Patent Pending"
 }) %}
@@ -22,10 +22,10 @@
 <body>
     <div id="container">
     <header>
-    <span id="logo"><a href="/">Larry Stone</a></span>
+    <span id="logo"><a href="/">B-Lab</a></span>
     <nav>
     <ul>
-    {% for href, caption in [('comics', 'Comics'), ('game', 'Game'), ('about', 'Me')] %}
+    {% for href, caption in [('', 'Latest'), ('comics', 'Archives'), ('about', 'About')] %}
         {% set current = request.path.split('/') %}
         <li{% if href == current[1] %} class="current" {% endif %}><a href="/{{ href }}">{{ caption }}</a></li>
     {% endfor %}

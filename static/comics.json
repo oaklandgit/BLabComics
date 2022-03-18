@@ -4,7 +4,6 @@
     "slug": "blue-hulk",
     "title": "A Smashing Success!",
     "series": "blab",
-    "description": "Blue Hulk is a smashing success!",
     "images": [ "Hulk_Smash.png" ]
     },
 
@@ -12,7 +11,6 @@
     "slug": "vote-in-time",
     "title": "Time to Vote!",
     "series": "blab",
-    "description": "Vote. The future depends on it",
     "images": [ "Time_To_Vote_2.png" ]
     },
 
@@ -20,7 +18,6 @@
     "slug": "thoughts-and-prayers",
     "title": "Thoughts and Prayers",
     "series": "blab",
-    "description": "Zeno turns lemons into… ahhh who cares",
     "images": [ "Thoughts_and_Prayers.png" ]
     },
 
@@ -28,7 +25,6 @@
     "slug": "space-force",
     "title": "Space Farce",
     "series": "blab",
-    "description": "Zeno hopes to make some coin off Space Force",
     "images": [ "Space_Force.png" ],
     "markdown": "Commander-in-Chief Trump ain't interested in any of that *For All Mankind* kumbaya shit. His [Space Force](https://www.nytimes.com/2018/06/18/us/politics/trump-space-force-sixth-military-branch.html)  will DOMINATE the universe with his brand of toxic masculinity, over-compensation for tiny hands, and aversion to even attemp to understand how things work."
     },
@@ -37,7 +33,6 @@
     "slug": "scott-pruitt",
     "title": "Scott Pruitt Didn't Doitt",
     "series": "blab",
-    "description": "In defense of Scott Pruitt",
     "images": [ "Pruitt.png" ],
     "markdown": "Trump's EPA chief Scott Pruitt [reportedly](https://www.cnn.com/2018/04/06/politics/scott-pruitt-controversies-list/index.html) had his security detail drive him around looking for lotion from D.C.-area Ritz-Carltons, had a staffer reach out to the Trump Hotel to purchase one of their mattresses, and hit up oil and gas companies for tickets to the Rose Bowl. But of course there's a logical explanation for all that, since we all know he was too focused on his job."
     },
@@ -46,7 +41,6 @@
     "slug": "roomba-with-a-view",
     "title": "A Roomba with a View",
     "series": "blab",
-    "description": "",
     "images": [ "Roomba_01.png", "Roomba_02.png", "Roomba_03.png", "Roomba_04.png" ]
     },
     
@@ -54,7 +48,6 @@
     "slug": "ironic-dome",
     "title": "Iron-ic Dome",
     "series": "blab",
-    "description": "Saber Rattling!",
     "images": [ "Iron-ic_Dome.png" ]
     },
     
@@ -62,7 +55,6 @@
     "slug": "totally-eclipsed",
     "title": "Trump gets Eclipsed",
     "series": "blab",
-    "description": "How to watch a Solar Eclipse",
     "images": [ "Polarized.png" ]
     },
     
@@ -70,7 +62,6 @@
     "slug": "korea-military-options",
     "title": "Drawing a Blank",
     "series": "blab",
-    "description": "Military options for the Korean conflict",
     "images": [ "Military_Options.png", "Science_Advisor.png" ]
     },
     
@@ -78,7 +69,6 @@
     "slug": "red-sox-cheaters",
     "title": "Diamonds in the Rough",
     "series": "blab",
-    "description": "Zeno's Sports Clinic",
     "images": [ "RedSox.png" ]    
     },
     
@@ -86,7 +76,6 @@
     "slug": "presidential-powers",
     "title": "Pardon Me?",
     "series": "blab",
-    "description": "Zeno tests the limits of presidential powers",
     "images": [ "Presidential_Powers.png" ],
     "markdown": "Trump [reportedly](https://www.npr.org/2021/01/09/955087860/can-trump-pardon-himself) asked aides whether a President can pardon oneself. I suppose he was asking for a friend."
     },
@@ -95,7 +84,6 @@
     "slug": "google-ai-drone",
     "title": "Droning On",
     "series": "blab",
-    "description": "The B-Lab team learns to \"fake it 'til you make it\"",
     "images": [ "ai_drone_01.png", "ai_drone_02.png" ],
     "markdown": "When Google failed to secure a lucritive Pentagon contract due to their [pesky employees' standards of ethics](https://www.washingtonpost.com/news/the-switch/wp/2018/06/01/google-to-drop-pentagon-ai-contract-after-employees-called-it-the-business-of-war/), Zeno, who has no such standards, cashes in."
     },
@@ -104,7 +92,6 @@
     "slug": "commuter-scooter-polluter",
     "title": "Commuter Scooter Polluter",
     "series": "blab",
-    "description": "U-Gene becomes a Commuter Scooter Polluter",
     "images": [ "Scooter.png" ]
     },
 
@@ -112,7 +99,6 @@
     "slug": "facebook-collects-your-face",
     "title": "DNA, MUA, Oy Vey",
     "series": "blab",
-    "description": "U-Gene signs a DNA MUA",
     "images": [ "Facebook_Data_01.png", "Facebook_Data_02.png" ]
     },
 
@@ -120,7 +106,6 @@
     "slug": "smoking-gun",
     "title": "Say Hello to my Little Friend",
     "series": "blab",
-    "description": "Ammo! Pills! Booze!",
     "images": [ "Smoking_Gun.png" ]
     },
 
@@ -128,7 +113,6 @@
     "slug": "shape-of-water",
     "title": "I'd Like to Tank the Academy",
     "series": "blab",
-    "description": "Zeno goes \"Bacta\" 1980!",
     "images": [ "Shape_Of_Water.png" ]
     },
 
@@ -136,7 +120,6 @@
     "slug": "trump-card",
     "title": "Loyaly has its discords",
     "series": "blab",
-    "description": "Zeno plays the Trump card",
     "images": [ "Loyalty_Program.png" ],
     "markdown": "It always amazed me how people stay loyal to Trump even as he publicly humiliates them. I wonder, what dirt he must have had on Jeff Sessions to keep his Attorney General puckering up despite the [well-documented verbal abuse](https://www.cnn.com/2018/02/28/politics/donald-trump-jeff-sessions-feud/index.html)?"
     },
@@ -145,7 +128,6 @@
     "slug": "wakandan-tech",
     "title": "Not suitable for the MCU",
     "series": "blab",
-    "description": "U-Gene tempts a Marvel suit",
     "images": [ "Wakandan_Tech.png" ]
     },
 
@@ -153,7 +135,6 @@
     "slug": "gun-lobby",
     "title": "Kicking back in the Gun Lobby",
     "series": "blab",
-    "description": "B-Lab fires back at the NRA",
     "images": [ "Gun_Lobby_01.png", "Gun_Lobby_02.png", "Gun_Lobby_03.png" ]
     },
 
@@ -161,7 +142,6 @@
     "slug": "tech-games",
     "title": "Tech Games 2018",
     "series": "blab",
-    "description": "Zeno plugs into sports",
     "images": [ "Tech_Games_2018.png" ]
     },
 
@@ -169,7 +149,6 @@
     "slug": "military-parade",
     "title": "Propped Up",
     "series": "blab",
-    "description": "Zeno props up Herr Trump",
     "images": [ "Military_Parade.png" ]
     },
 
@@ -177,7 +156,6 @@
     "slug": "amazon-watch",
     "title": "You're Being Watched",
     "series": "blab",
-    "description": "Somebody's watching you",
     "images": [ "Amazon_Patent.png" ]
     },
 
@@ -185,7 +163,6 @@
     "slug": "deep-state",
     "title": "Going Deep",
     "series": "blab",
-    "description": "Zeno goes deep",
     "images": [ "Deep_State.png" ]
     },
 
@@ -193,7 +170,6 @@
     "slug": "bricked-iphone",
     "title": "Another Brick in the Wall",
     "series": "blab",
-    "description": "Zeno's new iPhone for kids!",
     "images": [ "non-addictive-iPhone.png" ]
     },
 
@@ -201,7 +177,6 @@
     "slug": "doomsday-clock",
     "title": "The Final Countdown",
     "series": "blab",
-    "description": "Zeno learns you can’t turn back time",
     "images": [ "Doomsday.png" ]
     },
 
@@ -209,7 +184,6 @@
     "slug": "president-jello",
     "title": "Watch it Wiggle",
     "series": "blab",
-    "description": "See how Trump's politics solidify",
     "images": [ "Jello.png" ]
     },
 
@@ -217,7 +191,6 @@
     "slug": "shithol-president",
     "title": "About that Umla&uuml;t&hellip;",
     "series": "blab",
-    "description": "Gr&euml;et Gr&euml;ta!",
     "images": [ "Greta_from_Norway.png" ]
     },
 
@@ -225,15 +198,13 @@
     "slug": "timeboxed",
     "title": "Out of the Box Thinking",
     "series": "blab",
-    "description": "U-Gene is definitely gonna write that book",
     "images": [ "Timeboxed.png" ]
     },
 
     {
     "slug": "baby-proofed-whitehouse",
-    "title": "Baby-Proofing the White House",
+    "title": "Grand Old Potty",
     "series": "blab",
-    "description": "Baby-proofing the White House",
     "images": [ "baby_proofed.png" ]
     },
 
@@ -241,15 +212,13 @@
     "slug": "blade-runner",
     "title": "Blade Ruiner",
     "series": "blab",
-    "description": "New version of Blade Runner!",
     "images": [ "blade_runner.png" ]
     },
 
     {
     "slug": "tax-reform",
-    "title": "Massive Changes",
+    "title": "A Massive Rewrite",
     "series": "blab",
-    "description": "Massive changes to the tax code",
     "images": [ "tax_reform.png" ]
     },
     
@@ -257,7 +226,6 @@
     "slug": "im-from-nambia",
     "title": "Fantastic Places!",
     "series": "blab",
-    "description": "Petra brings home more refugees!",
     "images": [ "nambia.png" ]
     },
     
@@ -265,7 +233,6 @@
     "slug": "face-id",
     "title": "Face-off",
     "series": "blab",
-    "description": "How to use Face ID",
     "images": [ "Face_ID.png" ]
     },
 
@@ -273,7 +240,6 @@
     "slug": "equifax-data-breach",
     "title": "The 'fax Guarding the Henhouse",
     "series": "blab",
-    "description": "Understanding the Equifax data breach",
     "images": [ "Equifax.png" ]
     },
     
@@ -281,7 +247,6 @@
     "slug": "prostetic-brain",
     "title": "Prosthetic Brain",
     "series": "misc",
-    "description": "My Brain Takes a Hiatus",
     "images": [ "brain1.png", "brain2.png", "brain3.png", "brain4.png", "brain5.png", "brain6.png", "brain7.png", "brain8.png", "brain9.png" ]
     },
 
@@ -289,7 +254,6 @@
     "slug": "subway-religion",
     "title": "Subway Religion",
     "series": "misc",
-    "description": "Plagues! Pestilence! Guilt! It's the Subway!",
     "images": [ "subway_religion.jpg" ]
     },
 
@@ -297,7 +261,6 @@
     "slug": "talking-clock-chronicles",
     "title": "The Talking Clock Chronicles",
     "series": "pineapple",
-    "description": "Unusual is This Fun Clock!",
     "images": [ "talking_clock_01.png", "talking_clock_02.png" ]
     },
 
@@ -305,7 +268,6 @@
     "slug": "removing-george-hw-bush",
     "title": "Bush Removal",
     "series": "patent",
-    "description": "Removing George H.W. Bush from office",
     "images": [ "removing-bush.jpg" ],
     "markdown": "**Here's how it works:** When lame-duck president signs pardons, scale **(A) ** tips, lifting cover off Hillary Clinton's superior cookies **(B)**. Angered, Barbara reaches for her spatula **(C)**, tugging typewriter **(D)** away from Millie who is scribing her tell-all autobiography *How I Ran the Presidency Without Even Getting a Biscuit.* Millie rushes for the typewriter, causing leash **(E)** to pull trap-door lever **(F)**, sending George Bush into a bottomless pit of obscurity where Reagan, Carter, Ford and Nixon await him."
     },
@@ -314,7 +276,6 @@
     "slug": "mad-man-dans-internet",
     "title": "The Internet in 6 Easy Steps",
     "series": "misc",
-    "description": "Man Man Dan blows a fuse",
     "images": [ "madman_dan.jpg" ]
     }
 ]

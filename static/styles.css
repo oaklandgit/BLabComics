@@ -7,6 +7,10 @@
     font-size: 106%;
 }
 
+img {
+    background: #d6d6d6;
+}
+
 p {
     margin-bottom: 1em;
 }

@@ -1,0 +1,25 @@
+{% extends "snippets/base.jinja" %}
+
+{% block title %}
+    {{ groupLabels[item.series] }} Comics: "{{ item.title }}"
+{% endblock %}
+
+{% block content %}
+
+<h1>"{{ item.title }}"</h1>
+
+<div class="imageGroup">
+{% for image in item.images %}
+    <img src="{{ url_for('static', filename='full2x/' ~ image) }}" alt="{{ item.description }}">
+{% endfor %}
+</div>
+
+{% if item.markdown %}
+<p>{{ item.markdown | md | safe }}</p>
+{% endif %}
+
+<div id="readMore">
+<a href="/random/">Thank you sir, may I have another &rarr;</a>  
+</div>
+
+{% endblock %}

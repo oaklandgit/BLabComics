@@ -22,6 +22,34 @@
     },
 
     {
+    "slug": "wrestling-republicans",
+    "title": "Wrestling With No Conscience",
+    "series": "blab",
+    "images": [ "WWF_GOP.png" ]
+    },
+
+    {
+    "slug": "the-orb",
+    "title": "Unless Round is Funny",
+    "series": "blab",
+    "images": [ "The_Orb.png" ]
+    },
+
+    {
+    "slug": "global-warming",
+    "title": "Oh Snap, That's Cold!",
+    "series": "blab",
+    "images": [ "arctic.png" ]
+    },
+
+    {
+    "slug": "ransom-ware",
+    "title": "Kernel Panic",
+    "series": "blab",
+    "images": [ "ugene-gets-ransomware.png" ]
+    },
+    
+    {
     "slug": "space-force",
     "title": "Space Farce",
     "series": "blab",
@@ -35,6 +63,27 @@
     "series": "blab",
     "images": [ "Pruitt.png" ],
     "markdown": "Trump's EPA chief Scott Pruitt [reportedly](https://www.cnn.com/2018/04/06/politics/scott-pruitt-controversies-list/index.html) had his security detail drive him around looking for lotion from D.C.-area Ritz-Carltons, had a staffer reach out to the Trump Hotel to purchase one of their mattresses, and hit up oil and gas companies for tickets to the Rose Bowl. But of course there's a logical explanation for all that, since we all know he was too focused on his job."
+    },
+
+    {
+    "slug": "down-with-covfefe",
+    "title": "I'm Down with Covfefe",
+    "series": "blab",
+    "images": [ "CovFeFe.png", "CovFeFe_Two.png" ]
+    },
+
+    {
+    "slug": "trump-novelties",
+    "title": "More Fun than a Barrel of Sea Monkeys!",
+    "series": "blab",
+    "images": [ "Trump_Novelties.png" ]
+    },
+    
+    {
+    "slug": "ugene-for-congress",
+    "title": "A Nation Divided",
+    "series": "blab",
+    "images": [ "Gerrymander.png", "U-Gene_for_Congress.png", "All_in_a_haze.png", "The_Pledge.png" ]
     },
 
     {

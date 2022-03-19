@@ -1,5 +1,6 @@
 import os, json, markdown
 from flask import Flask, render_template
+from random import randrange
 
 app = Flask('app')
 
@@ -19,11 +20,16 @@ ITEMS = getItems(JSON_PATH)
 
 @app.route('/')
 def home():
-    return render_template('home.jinja', hero=ITEMS[0], items=ITEMS[1:9])
+    return render_template('home.jinja', hero=ITEMS[0], items=ITEMS[1:13])
     
 @app.route('/comics/')
 def archives():
     return render_template('archives.jinja', items=ITEMS)
+
+@app.route('/random/')
+def random():
+    item = ITEMS[randrange(len(ITEMS))]
+    return render_template('random.jinja', item=item)
 
 @app.route('/comics/series/<seriesId>/')
 def category(seriesId):

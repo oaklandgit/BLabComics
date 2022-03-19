@@ -25,7 +25,7 @@
     <span id="logo"><a href="/">B-Lab</a></span>
     <nav>
     <ul>
-    {% for href, caption in [('', 'Latest'), ('comics', 'Archives'), ('about', 'About')] %}
+    {% for href, caption in [('', 'Latest'), ('random', 'Surprise Me'), ('comics', 'Archives'), ('about', 'About')] %}
         {% set current = request.path.split('/') %}
         <li{% if href == current[1] %} class="current" {% endif %}><a href="/{{ href }}">{{ caption }}</a></li>
     {% endfor %}
@@ -35,7 +35,7 @@
     <section>
     {% block content %}{% endblock %}
     </section>
-    <footer>&copy 2022 Larry Stone</footer>
+    <footer>Comics &copy 2022 Larry Stone</footer>
     </div>
 </body>
 </html>

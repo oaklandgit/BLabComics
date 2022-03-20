@@ -48,6 +48,55 @@
     "series": "blab",
     "images": [ "ugene-gets-ransomware.png" ]
     },
+
+    {
+    "slug": "usps-spam-service",
+    "title": "We Deliver for You!",
+    "series": "blab",
+    "images": [ "spam-and-junkmail.png"]
+    },
+
+    {
+    "slug": "mothers-day",
+    "title": "All About My Mother",
+    "series": "blab",
+    "images": [ "mothers-day.png" ]
+    },
+
+    {
+    "slug": "trump-euphemisms",
+    "title": "Useful Euphemisms",
+    "series": "blab",
+    "images": [ "trump-euphemisms.png" ]
+    },
+
+    {
+    "slug": "double-o-duck",
+    "title": "Double-o-Duck",
+    "series": "blab",
+    "images": [ "double-o-duck-01.png", "double-o-duck-02.png" ]
+    },
+
+    {
+    "slug": "the-republican-psyche",
+    "title": "Psyyyych!",
+    "series": "blab",
+    "images": [ "republican-psyche.png" ]
+    },
+
+    {
+    "slug": "roswell-and-grey",
+    "title": "Extraterrestrial Inelegants",
+    "series": "blab",
+    "images": [ "roswell-and-grey.png" ]
+    },
+
+    {
+    "slug": "unicorn-fraps",
+    "title": "The Technicolor Yawn",
+    "series": "blab",
+    "images": [ "unicorn-fraps-01.png", "unicorn-fraps-02.png" ]
+    },
     
     {
     "slug": "space-force",

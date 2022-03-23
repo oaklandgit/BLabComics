@@ -7,11 +7,5 @@ Archives
 {% endblock %}
 
 {% block content %}
-
-{% for series, items in items | groupby('series') %}
-{#     <h1>{{ groupLabels[series] }}</h1> #}
-    {% include 'snippets/gallery.jinja' %}
-{% endfor %}
-
-
+{% include 'snippets/gallery.jinja' %}
 {% endblock %}

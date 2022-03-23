@@ -1,22 +1,21 @@
 {% extends "snippets/base.jinja" %}
-{% set metaImage=hero.images[0] %}
+{% set metaImage="blabbies-01.png" %}
 {% set pageTitle="Home" %}
 
 {% block content %}
 
-{% set item = hero %}
+<div class="imgContainer">
+<img src="/static/full2x/blabbies-01.png" />
+</div>
+
 
 <section>
-{% include 'snippets/article.jinja' %}
-</section>
 
-<section>
-
-<h1>More Hilarity</h1>
+<h1>The Best o' B-Lab</h1>
 {% include 'snippets/gallery.jinja' %}
 
 <div id="readMore">
-    <a href="/comics">Browse the Archives &rarr;</a>
+    <a href="/comics">All Comics <i class="fa-solid fa-arrow-right-long"></i></a>
 </div>
 
 </section>

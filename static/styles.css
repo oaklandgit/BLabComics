@@ -52,6 +52,7 @@ section img {
 
 .imgContainer {
     overflow: auto;
+    margin-bottom: 1.4em;
 }
 
 .imgContainer img {
@@ -68,16 +69,16 @@ section.footnotes p {
 }
 
 #container {
-    max-width: 960px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 3em;
 }
 
 footer {
-    margin: 3em 0;
+    margin: 6em 0;
     padding: 2em 0;
     border-top: 2px solid #d6d6d6;
-    text-align: right; 
+    text-align: center; 
 }
 
 #logo {
@@ -218,7 +219,8 @@ img.teaser {
 }
 
 #paging {
-    grid-template-columns: 1fr 4fr;
+    grid-template-columns: repeat(3, 1fr);
+    justify-items: center;
 }
 
 #paging a:first-child {

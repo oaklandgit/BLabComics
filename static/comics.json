@@ -3,140 +3,194 @@
     {
     "slug": "blue-hulk",
     "title": "A Smashing Success!",
-    "series": "blab",
-    "images": [ "Hulk_Smash.png" ]
+    "images": [ "Hulk_Smash.png" ],
+    "bestof": "true"
     },
 
     {
     "slug": "vote-in-time",
     "title": "Time to Vote!",
-    "series": "blab",
     "images": [ "Time_To_Vote_2.png" ]
     },
 
     {
     "slug": "thoughts-and-prayers",
     "title": "Thoughts and Prayers",
-    "series": "blab",
     "images": [ "Thoughts_and_Prayers.png" ]
     },
 
     {
     "slug": "wrestling-republicans",
     "title": "Wrestling With No Conscience",
-    "series": "blab",
     "images": [ "WWF_GOP.png" ]
     },
 
     {
     "slug": "the-orb",
     "title": "Unless Round is Funny",
-    "series": "blab",
     "images": [ "The_Orb.png" ]
     },
 
     {
     "slug": "global-warming",
     "title": "Oh Snap, That's Cold!",
-    "series": "blab",
-    "images": [ "arctic.png" ]
+    "images": [ "arctic.png" ],
+    "bestof": "true"
     },
 
     {
     "slug": "ransom-ware",
     "title": "Kernel Panic",
-    "series": "blab",
     "images": [ "ugene-gets-ransomware.png" ]
     },
 
     {
     "slug": "usps-spam-service",
     "title": "We Deliver for You!",
-    "series": "blab",
     "images": [ "spam-and-junkmail.png"]
     },
 
     {
     "slug": "mothers-day",
     "title": "All About My Mother",
-    "series": "blab",
     "images": [ "mothers-day.png" ]
     },
 
     {
     "slug": "trump-euphemisms",
     "title": "Useful Euphemisms",
-    "series": "blab",
     "images": [ "trump-euphemisms.png" ]
     },
 
     {
     "slug": "double-o-duck",
     "title": "Double-o-Duck",
-    "series": "blab",
     "images": [ "double-o-duck-01.png", "double-o-duck-02.png" ]
     },
 
     {
     "slug": "the-republican-psyche",
     "title": "Psyyyych!",
-    "series": "blab",
-    "images": [ "republican-psyche.png" ]
+    "images": [ "republican-psyche.png" ],
+    "bestof": "true"
     },
 
     {
     "slug": "roswell-and-grey",
     "title": "Extraterrestrial Inelegants",
-    "series": "blab",
-    "images": [ "roswell-and-grey.png" ]
+    "images": [ "roswell-and-grey.png" ],
+    "bestof": "true"
     },
 
     {
     "slug": "unicorn-fraps",
     "title": "The Technicolor Yawn",
-    "series": "blab",
-    "images": [ "unicorn-fraps-01.png", "unicorn-fraps-02.png" ]
+    "images": [ "unicorn-fraps-01.png", "unicorn-fraps-02.png" ],
+    "bestof": "true"
     },
 
     {
     "slug": "qr-codes",
     "title": "Beep Bip Bop Boop",
-    "series": "blab",
-    "images": [ "qr-codes.png" ]
+    "images": [ "qr-codes.png" ],
+    "bestof": "true"
     },
 
     {
     "slug": "the-last-jedi",
     "title": "An Irresistable Force",
-    "series": "blab",
     "images": [ "the-last-jedi.png" ]
     },
 
     {
     "slug": "future-seder",
     "title": "The Coming Plague",
-    "series": "blab",
     "images": [ "seder-of-future.png"]
     },
 
     {
     "slug": "trump-robot",
     "title": "Shooting His Mouth Off",
-    "series": "blab",
     "images": [ "trump-robot-2.png"]
     },
 
     {
     "slug": "amazon-alexa",
     "title": "Miss Information",
-    "series": "blab",
     "images": [ "alexa-01.png", "alexa-02.png", "alexa-03.png", "alexa-04.png", "alexa-05.png" ]
+    },
+
+    {
+    "slug": "march-madness-2017",
+    "title": "Illegal Bracketeering",
+    "images": [ "march-madness.png" ]
+    },
+
+    {
+    "slug": "pledge-week",
+    "title": "A Captive Audience",
+    "images": [ "npr-waterboarding.png" ]
+    },
+
+    {
+    "slug": "uber-greyball",
+    "title": "Uber Disgusting", 
+    "images": [ "uber-greyball.png" ],
+    "markdown": "When Portland, Oregon officials were investigating whether Uber was operating within the law, they were [reportedly](https://www.latimes.com/business/technology/la-fi-tn-uber-greyball-20170303-story.html) shown a fake version of the app in an effort to hinder their work, a practice known internally as \"greyballing.\" Naturally, having the brain of a 9-year-old, I couldn't resist."
+    },
+
+    {
+    "slug": "snapchat-ipo",
+    "title": "Oh, Snap, That's Low!",
+    "images": [ "snapchat-ipo.png" ]
+    },
+
+    {
+    "slug": "oil-pipeline",
+    "title": "Snake Oil",
+    "bestof": "true",
+    "images": [ "pipeline-01.png", "pipeline-02.png", "pipeline-03.png", "pipeline-04.png", "pipeline-05.png" ]  
+    },
+    
+    {
+    "slug": "foiled-again",
+    "title": "Foiled Again",
+    "images": [ "foiled-again-01.png", "foiled-again-02.png" ]
+    },
+
+    {
+    "slug": "the-blabbies",
+    "title": "The Blabbies",
+    "images": [ "blabbies-01.png", "blabbies-02.png" ]
+    },
+
+    {
+    "slug": "power-tie",
+    "title": "Power Tie",
+    "images": [ "power-tie.png" ]
+    },
+
+    {
+    "slug": "trump-inauguration",
+    "title": "It Will Be Yuge!",
+    "images": [ "inauguration.png" ]
+    },
+
+    {
+    "slug": "trump-ces",
+    "title": "Please Stay in Vegas",
+    "images": [ "ces_for_trump.png" ]
+    },
+
+    {
+    "slug": "obamacare",
+    "title": "GOP Making You Sick?",
+    "images": [ "obamacare.png" ]
     },
     
     {
     "slug": "space-force",
     "title": "Space Farce",
-    "series": "blab",
     "images": [ "Space_Force.png" ],
     "markdown": "Commander-in-Chief Trump ain't interested in any of that *For All Mankind* kumbaya shit. His [Space Force](https://www.nytimes.com/2018/06/18/us/politics/trump-space-force-sixth-military-branch.html)  will DOMINATE the universe with his brand of toxic masculinity, over-compensation for tiny hands, and aversion to even attemp to understand how things work."
     },
@@ -144,7 +198,6 @@
     {
     "slug": "scott-pruitt",
     "title": "Scott Pruitt Didn't Doitt",
-    "series": "blab",
     "images": [ "Pruitt.png" ],
     "markdown": "Trump's EPA chief Scott Pruitt [reportedly](https://www.cnn.com/2018/04/06/politics/scott-pruitt-controversies-list/index.html) had his security detail drive him around looking for lotion from D.C.-area Ritz-Carltons, had a staffer reach out to the Trump Hotel to purchase one of their mattresses, and hit up oil and gas companies for tickets to the Rose Bowl. But of course there's a logical explanation for all that, since we all know he was too focused on his job."
     },
@@ -159,64 +212,56 @@
     {
     "slug": "trump-novelties",
     "title": "More Fun than a Barrel of Sea Monkeys!",
-    "series": "blab",
     "images": [ "Trump_Novelties.png" ]
     },
     
     {
     "slug": "ugene-for-congress",
     "title": "A Nation Divided",
-    "series": "blab",
     "images": [ "Gerrymander.png", "U-Gene_for_Congress.png", "All_in_a_haze.png", "The_Pledge.png" ]
     },
 
     {
     "slug": "roomba-with-a-view",
     "title": "A Roomba with a View",
-    "series": "blab",
     "images": [ "Roomba_01.png", "Roomba_02.png", "Roomba_03.png", "Roomba_04.png" ]
     },
     
     {
     "slug": "ironic-dome",
     "title": "Iron-ic Dome",
-    "series": "blab",
     "images": [ "Iron-ic_Dome.png" ]
     },
     
     {
     "slug": "totally-eclipsed",
     "title": "Trump gets Eclipsed",
-    "series": "blab",
     "images": [ "Polarized.png" ]
     },
     
     {
     "slug": "korea-military-options",
     "title": "Drawing a Blank",
-    "series": "blab",
     "images": [ "Military_Options.png", "Science_Advisor.png" ]
     },
     
     {
     "slug": "red-sox-cheaters",
     "title": "Diamonds in the Rough",
-    "series": "blab",
     "images": [ "RedSox.png" ]    
     },
     
     {
     "slug": "presidential-powers",
     "title": "Pardon Me?",
-    "series": "blab",
     "images": [ "Presidential_Powers.png" ],
+    "bestof": "true",
     "markdown": "Trump [reportedly](https://www.npr.org/2021/01/09/955087860/can-trump-pardon-himself) asked aides whether a President can pardon oneself. I suppose he was asking for a friend."
     },
 
     {
     "slug": "google-ai-drone",
     "title": "Droning On",
-    "series": "blab",
     "images": [ "ai_drone_01.png", "ai_drone_02.png" ],
     "markdown": "When Google failed to secure a lucritive Pentagon contract due to their [pesky employees' standards of ethics](https://www.washingtonpost.com/news/the-switch/wp/2018/06/01/google-to-drop-pentagon-ai-contract-after-employees-called-it-the-business-of-war/), Zeno, who has no such standards, cashes in."
     },
@@ -224,35 +269,31 @@
     {
     "slug": "commuter-scooter-polluter",
     "title": "Commuter Scooter Polluter",
-    "series": "blab",
     "images": [ "Scooter.png" ]
     },
 
     {
     "slug": "facebook-collects-your-face",
     "title": "DNA, MUA, Oy Vey",
-    "series": "blab",
     "images": [ "Facebook_Data_01.png", "Facebook_Data_02.png" ]
     },
 
     {
     "slug": "smoking-gun",
     "title": "Say Hello to my Little Friend",
-    "series": "blab",
+    "bestof": "true",
     "images": [ "Smoking_Gun.png" ]
     },
 
     {
     "slug": "shape-of-water",
     "title": "I'd Like to Tank the Academy",
-    "series": "blab",
     "images": [ "Shape_Of_Water.png" ]
     },
 
     {
     "slug": "trump-card",
     "title": "Loyaly has its Discords",
-    "series": "blab",
     "images": [ "Loyalty_Program.png" ],
     "markdown": "It always amazed me how people stay loyal to Trump even as he publicly humiliates them. I wonder, what dirt he must have had on Jeff Sessions to keep his Attorney General puckering up despite the [well-documented verbal abuse](https://www.cnn.com/2018/02/28/politics/donald-trump-jeff-sessions-feud/index.html)?"
     },
@@ -260,147 +301,119 @@
     {
     "slug": "wakandan-tech",
     "title": "Not Suitable for the MCU",
-    "series": "blab",
     "images": [ "Wakandan_Tech.png" ]
     },
 
     {
     "slug": "gun-lobby",
     "title": "Kicking Back in the Gun Lobby",
-    "series": "blab",
+    "bestof": "true",
     "images": [ "Gun_Lobby_01.png", "Gun_Lobby_02.png", "Gun_Lobby_03.png" ]
     },
 
     {
     "slug": "tech-games",
     "title": "Tech Games 2018",
-    "series": "blab",
     "images": [ "Tech_Games_2018.png" ]
     },
 
     {
     "slug": "military-parade",
     "title": "Propped Up",
-    "series": "blab",
     "images": [ "Military_Parade.png" ]
     },
 
     {
     "slug": "amazon-watch",
     "title": "You're Being Watched",
-    "series": "blab",
     "images": [ "Amazon_Patent.png" ]
     },
 
     {
     "slug": "deep-state",
     "title": "Going Deep",
-    "series": "blab",
     "images": [ "Deep_State.png" ]
     },
 
     {
     "slug": "bricked-iphone",
     "title": "Another Brick in the Wall",
-    "series": "blab",
     "images": [ "non-addictive-iPhone.png" ]
     },
 
     {
     "slug": "doomsday-clock",
     "title": "The Final Countdown",
-    "series": "blab",
+    "bestof": "true",
     "images": [ "Doomsday.png" ]
     },
 
     {
     "slug": "president-jello",
     "title": "Watch it Wiggle",
-    "series": "blab",
     "images": [ "Jello.png" ]
     },
 
     {
     "slug": "shithol-president",
     "title": "About that Umla&uuml;t&hellip;",
-    "series": "blab",
     "images": [ "Greta_from_Norway.png" ]
     },
 
     {
     "slug": "timeboxed",
     "title": "Out of the Box Thinking",
-    "series": "blab",
+    "bestof": "true",
     "images": [ "Timeboxed.png" ]
     },
 
     {
     "slug": "baby-proofed-whitehouse",
     "title": "A Product of the Grand Old Potty",
-    "series": "blab",
+    "bestof": "true",
     "images": [ "baby_proofed.png" ]
     },
 
     {
     "slug": "blade-runner",
     "title": "Blade Ruiner",
-    "series": "blab",
     "images": [ "blade_runner.png" ]
     },
 
     {
     "slug": "tax-reform",
     "title": "A Massive Rewrite",
-    "series": "blab",
     "images": [ "tax_reform.png" ]
     },
     
     {
     "slug": "im-from-nambia",
     "title": "Fantastic Places!",
-    "series": "blab",
     "images": [ "nambia.png" ]
     },
     
     {
     "slug": "face-id",
     "title": "Face-off",
-    "series": "blab",
+    "bestof": "true",
     "images": [ "Face_ID.png" ]
     },
 
     {
     "slug": "equifax-data-breach",
     "title": "The 'fax Guarding the Henhouse",
-    "series": "blab",
     "images": [ "Equifax.png" ]
     },
     
     {
-    "slug": "prostetic-brain",
-    "title": "Prosthetic Brain",
-    "series": "misc",
-    "images": [ "brain1.png", "brain2.png", "brain3.png", "brain4.png", "brain5.png", "brain6.png", "brain7.png", "brain8.png", "brain9.png" ]
-    },
-
-    {
     "slug": "subway-religion",
     "title": "Subway Religion",
-    "series": "misc",
     "images": [ "subway_religion.jpg" ]
     },
 
     {
-    "slug": "talking-clock-chronicles",
-    "title": "The Talking Clock Chronicles",
-    "series": "pineapple",
-    "images": [ "talking_clock_01.png", "talking_clock_02.png" ]
-    },
-
-    {
     "slug": "removing-george-hw-bush",
-    "title": "Bush Removal",
-    "series": "patent",
+    "title": "Bye George",
     "images": [ "removing-bush.jpg" ],
     "markdown": "**Here's how it works:** When lame-duck president signs pardons, scale **(A) ** tips, lifting cover off Hillary Clinton's superior cookies **(B)**. Angered, Barbara reaches for her spatula **(C)**, tugging typewriter **(D)** away from Millie who is scribing her tell-all autobiography *How I Ran the Presidency Without Even Getting a Biscuit.* Millie rushes for the typewriter, causing leash **(E)** to pull trap-door lever **(F)**, sending George Bush into a bottomless pit of obscurity where Reagan, Carter, Ford and Nixon await him."
     },
@@ -408,7 +421,6 @@
     {
     "slug": "mad-man-dans-internet",
     "title": "The Internet in 6 Easy Steps",
-    "series": "misc",
     "images": [ "madman_dan.jpg" ]
     }
 ]

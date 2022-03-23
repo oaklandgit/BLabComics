@@ -97,6 +97,41 @@
     "series": "blab",
     "images": [ "unicorn-fraps-01.png", "unicorn-fraps-02.png" ]
     },
+
+    {
+    "slug": "qr-codes",
+    "title": "Beep Bip Bop Boop",
+    "series": "blab",
+    "images": [ "qr-codes.png" ]
+    },
+
+    {
+    "slug": "the-last-jedi",
+    "title": "An Irresistable Force",
+    "series": "blab",
+    "images": [ "the-last-jedi.png" ]
+    },
+
+    {
+    "slug": "future-seder",
+    "title": "The Coming Plague",
+    "series": "blab",
+    "images": [ "seder-of-future.png"]
+    },
+
+    {
+    "slug": "trump-robot",
+    "title": "Shooting His Mouth Off",
+    "series": "blab",
+    "images": [ "trump-robot-2.png"]
+    },
+
+    {
+    "slug": "amazon-alexa",
+    "title": "Miss Information",
+    "series": "blab",
+    "images": [ "alexa-01.png", "alexa-02.png", "alexa-03.png", "alexa-04.png", "alexa-05.png" ]
+    },
     
     {
     "slug": "space-force",

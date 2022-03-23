@@ -1,6 +1,6 @@
 import os, json, markdown
-from flask import Flask, render_template
-from random import randrange
+from flask import Flask, render_template, redirect, url_for
+from random import sample 
 
 app = Flask('app')
 
@@ -24,16 +24,17 @@ def home():
     
 @app.route('/comics/')
 def archives():
-    return render_template('archives.jinja', items=ITEMS)
+    return render_template('archives.jinja', items=sample(ITEMS, len(ITEMS)) )
 
 @app.route('/random/')
 def random():
-    item = ITEMS[randrange(len(ITEMS))]
-    return render_template('random.jinja', item=item)
+    item=sample(ITEMS,1)[0]
+    return redirect('/comics/' + item['slug'] + '/')
+    # return render_template('random.jinja', item=sample(ITEMS,1)[0])
 
-@app.route('/comics/series/<seriesId>/')
-def category(seriesId):
-    return render_template('series.jinja', items=[row for row in ITEMS if row['series'] == seriesId], seriesId=seriesId)
+# @app.route('/comics/series/<seriesId>/')
+# def category(seriesId):
+#     return render_template('series.jinja', items=[row for row in ITEMS if row['series'] == seriesId], seriesId=seriesId)
 
 @app.route('/comics/<slug>/')
 def detail(slug):

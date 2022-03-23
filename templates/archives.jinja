@@ -1,4 +1,6 @@
 {% extends "snippets/base.jinja" %}
+{% set metaImage="gorilla-munch.png" %}
+{% set pageTitle="Archives" %}
 
 {% block title %}
 Archives
@@ -7,7 +9,7 @@ Archives
 {% block content %}
 
 {% for series, items in items | groupby('series') %}
-    <h1>{{ groupLabels[series] }}</h1>
+{#     <h1>{{ groupLabels[series] }}</h1> #}
     {% include 'snippets/gallery.jinja' %}
 {% endfor %}
 

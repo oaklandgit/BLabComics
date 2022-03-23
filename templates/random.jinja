@@ -1,8 +1,6 @@
 {% extends "snippets/base.jinja" %}
-
-{% block title %}
-    {{ groupLabels[item.series] }} Comics: "{{ item.title }}"
-{% endblock %}
+{% set metaImage=item.images[0] %}
+{% set pageTitle=item.title %}
 
 {% block content %}
 

@@ -12,12 +12,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Larry Stone's Comic Strips">
     <meta name="keywords" content="B-Lab,political humor,tech humor,comics,whimsical,zeno,Dijon the Armadillo,U-Gene,I Am a Pineapple">
+    <meta property="og:title" content="B-Lab: {{ pageTitle }}" />
+    <meta property="og:image" content="https://blabcomic.com/static/full2x/{{ metaImage }}" />
     <!-- FONT AWESOME -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 
     <link rel="stylesheet" href="/static/styles.css">
     
-    <title>B-Lab {% block title %}{% endblock %}</title>
+    <title>B-Lab: {{ pageTitle }}</title>
 </head>
 <body>
     <div id="container">
@@ -25,7 +27,7 @@
     <span id="logo"><a href="/">B-Lab</a></span>
     <nav>
     <ul>
-    {% for href, caption in [('', 'Latest'), ('comics', 'Browse'), ('random', 'Random'), ('about', 'About')] %}
+    {% for href, caption in [('comics', 'Comics'), ('about', 'About')] %}
         {% set current = request.path.split('/') %}
         <li{% if href == current[1] %} class="current" {% endif %}><a href="/{{ href }}">{{ caption }}</a></li>
     {% endfor %}
@@ -35,7 +37,14 @@
     <section>
     {% block content %}{% endblock %}
     </section>
-    <footer>&copy 2022 Larry Stone</footer>
+    <footer>
+
+&copy 2022 Larry Stone
+
+<a href="http://twitter.com/elstono/media"><i class="fa fa-twitter-square fa-sm"></i></a>
+<a href="https://www.linkedin.com/in/larrystone/"><i class="fa fa-linkedin-square fa-sm"></i></a>
+
+</footer>
     </div>
 </body>
 </html>

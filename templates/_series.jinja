@@ -1,5 +1,9 @@
 {% extends "snippets/base.jinja" %}
 
+{% block metaImage %}
+{{ items.images[0] }}
+{% endblock %}
+
 {% block title %}
 {{ groupLabels[seriesId] }} Comics
 {% endblock %}

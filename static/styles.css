@@ -59,13 +59,9 @@ section img {
     min-width: 900px;
 }
 
-section.footnotes  {
+p.footnotes  {
     margin-top: 2em;
-    padding-top: 2em;
-}
-
-section.footnotes p {
-    font-size: 80%;
+    font-size: 86%;
 }
 
 #container {
@@ -182,6 +178,10 @@ img.teaser {
     justify-items: center;
 }
 
+#logo img {
+    width: 220px;
+}
+
 @media(max-width:920px) {
     .gallery {
         grid-template-columns: repeat(3, 1fr);
@@ -208,7 +208,6 @@ img.teaser {
     #logo {
         font-size: 2.2em;
     }
-
 }
 
 #paging, #readMore {

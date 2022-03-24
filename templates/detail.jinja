@@ -2,6 +2,11 @@
 {% set metaImage=item.images[0] %}
 {% set pageTitle=item.title %}
 
+{% if item.wiki %}
+{% set keywords=item.wiki | wiki2keywords %}</p>
+{% endif %}
+
+
 {% block content %}
 
 <h1>"{{ item.title }}"</h1>

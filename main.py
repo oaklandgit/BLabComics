@@ -1,12 +1,19 @@
-import os, json, markdown
+import os, json, markdown, wikipedia
 from flask import Flask, render_template, redirect, url_for
 from random import sample 
 
 app = Flask('app')
 
+app.jinja_env.trim_blocks = True
+app.jinja_env.lstrip_blocks = True
+
 @app.template_filter('md')
 def md(text):
     return markdown.markdown(text)
+
+@app.template_filter('wiki2keywords')
+def wiki(text):
+    return ", ".join(wikipedia.search(text))
 
 def getItems(path):
     file = open(path)
@@ -21,8 +28,9 @@ ITEMS = getItems(JSON_PATH)
 # HOME
 @app.route('/')
 def home():
-    bestList = [item for item in ITEMS if 'bestof' in item]
-    return render_template('home.jinja', items=bestList[0:12])
+    # GET ANY 13 BEST-OFS. HERO WILL BE THE FIRST
+    items = sample([item for item in ITEMS if 'bestof' in item], 13)
+    return render_template('home.jinja', hero=items[0], items=items[1:13])
 
 # ALL COMICS SHUFFLED
 @app.route('/comics/')
@@ -44,7 +52,6 @@ def detail(slug):
         next = ITEMS[idx + 1]
     else:
         next = ITEMS[0]
-
     return render_template('detail.jinja', item=item, next=next)
 
 # ABOUT

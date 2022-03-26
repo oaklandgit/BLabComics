@@ -3,14 +3,18 @@
     {
     "slug": "blue-hulk",
     "title": "A Smashing Success!",
+    "wiki": "2018 United States elections",
     "images": [ "Hulk_Smash.png" ],
+    "description": "Zeno zaps a Democrat congressman and turns him into the Blue Hulk.",
     "bestof": "true"
     },
 
     {
     "slug": "rancous-keyboard",
     "title": "Much-Needed Input",
+    "wiki": "Alt-right",
     "images": [ "Rancous_Keyboard.png" ],
+    "description": "Zeno invents a USB keyboard designed for right-wing crazies.",
     "bestof": "true"
     },
 
@@ -18,6 +22,7 @@
     "slug": "bankseyed",
     "title": "Comic Strips",
     "images": [ "banksyed.png" ],
+    "description": "Zeno and Dijon the Armadmillo are torn through a paper shredder a la Banksy's Sotheby's auction performance art.",
     "bestof": "true",
     "wiki": "Girl with Balloon"
     },
@@ -26,6 +31,7 @@
     "slug": "evil-avocados",
     "title": "Gone Bad",
     "images": [ "avocado_01.png", "avocado_02.png", "avocado_03.png", "avocado_04.png" ],
+    "description": "Zeno's genetically modified avocados become self-aware and wreak havok in the lab.",
     "bestof": "true",
     "wiki": "Avocado"
     },
@@ -33,12 +39,16 @@
     {
     "slug": "vote-in-time",
     "title": "Voting Time!",
-    "images": [ "Time_To_Vote_2.png" ]
+    "wiki": "2018 United States elections",
+    "images": [ "Time_To_Vote_2.png" ],
+    "description": "Zeno takes U-Gene on an adventure through time to teach him the importance of voting."
     },
 
     {
     "slug": "wrestling-republicans",
-    "title": "Wrestling With No Conscience",
+    "title": "Party Animals",
+    "wiki": "Republican Party (United States)",
+    "description": "Zeno provides tips on how to push back on the cruelty of the Republican party.",
     "images": [ "WWF_GOP.png" ]
     },
 
@@ -46,6 +56,7 @@
     "slug": "the-orb",
     "title": "Unless Round is Funny",
     "images": [ "The_Orb.png" ],
+    "description": "Zeno explores the hidden meaning of Donald Trump's mysterious Saudi glowing orb.",
     "wiki": "2017 Riyadh summit"
     },
 
@@ -53,6 +64,7 @@
     "slug": "global-warming",
     "title": "Oh Snap, That's Cold!",
     "images": [ "arctic.png" ],
+    "description": "U-Gene learns the hard way that climate change is, in fact, real.",
     "bestof": "true",
     "wiki": "Climate change"
     },
@@ -61,46 +73,56 @@
     "slug": "ransom-ware",
     "title": "Kernel Panic",
     "images": [ "ugene-gets-ransomware.png" ],
+    "description": "U-Gene freaks out thinking he's gotten ransomware, when really it's just Symantec trying to upgrade him to premium.", 
     "wiki": "Ransomware"
     },
 
     {
     "slug": "usps-spam-service",
     "title": "We Deliver for You!",
-    "images": [ "spam-and-junkmail.png"]
+    "images": [ "spam-and-junkmail.png"],
+    "description": "U-Gene realizes the US Postal Service's Informed Delivery email feature is a novel new way to receive more junk mail."
     },
 
     {
     "slug": "mothers-day",
     "title": "All About My Mother",
     "images": [ "mothers-day.png" ],
+    "description": "U-Gene wishes his mother was Helen Mirren.",
     "wiki": "Mother's Day"
     },
 
     {
     "slug": "trump-euphemisms",
     "title": "Useful Euphemisms",
-    "images": [ "trump-euphemisms.png" ]
+    "images": [ "trump-euphemisms.png" ],
+    "description": "Zeno educates us on the underlying meaning of phrases like Cultural Anxiety and encourages us to call it what it is."   
     },
 
     {
     "slug": "double-o-duck",
     "title": "Double-o-Duck",
-    "images": [ "double-o-duck-01.png", "double-o-duck-02.png" ]
+    "images": [ "double-o-duck-01.png", "double-o-duck-02.png" ],
+    "wiki": "Espionage",
+    "description": "Secret agent Double-o-Duck pays the lab a visit."
     },
 
     {
     "slug": "the-republican-psyche",
     "title": "Psyyyych!",
     "images": [ "republican-psyche.png" ],
-    "bestof": "true"
+    "bestof": "true",
+    "wiki": "Psychology",
+    "description": "Zeno explains the Republican party's apparent lack of empathy."
     },
 
     {
     "slug": "roswell-and-grey",
     "title": "Extraterrestrial Inelegants",
     "images": [ "roswell-and-grey.png" ],
-    "bestof": "true"
+    "bestof": "true",
+    "wiki": "Grey alien",
+    "description": "Roswell and Grey, two clueless extraterrestrial visitors, land nearby the lab."
     },
 
     {
@@ -108,7 +130,8 @@
     "title": "The Technicolor Yawn",
     "images": [ "unicorn-fraps-01.png", "unicorn-fraps-02.png" ],
     "bestof": "true",
-    "wiki": "Unicorn Frappuccino"
+    "wiki": "Unicorn Frappuccino",
+    "description": "U-Gene tries to take on Starbucks Unicorn Frappuccino business, but instead ends up vomiting rainbows."
     },
 
     {
@@ -116,14 +139,16 @@
     "title": "Beep Bip Bop Boop",
     "images": [ "qr-codes.png" ],
     "bestof": "true",
-    "wiki": "QR code"
+    "wiki": "QR code",
+    "description": "This comic is delivered using QR Codes. Use your mobile device to visit each panel's URL."
     },
 
     {
     "slug": "the-last-jedi",
     "title": "An Irresistable Force",
     "images": [ "the-last-jedi.png" ],
-    "wiki": "Star Wars: The Last Jedi"
+    "wiki": "Star Wars: The Last Jedi",
+    "description": "The guys at the lab get sucked into the trailer for Star Wars: The Last Jedi."
     },
 
     {
@@ -347,7 +372,8 @@
     {
     "slug": "red-sox-cheaters",
     "title": "Diamonds in the Rough",
-    "images": [ "RedSox.png" ]    
+    "images": [ "RedSox.png" ],
+    "wiki": "Major League Baseball scandals"
     },
     
     {
@@ -355,6 +381,7 @@
     "title": "Pardon Me?",
     "images": [ "Presidential_Powers.png" ],
     "bestof": "true",
+    "wiki": "Federal pardons in the United States",
     "markdown": "Trump [reportedly](https://www.npr.org/2021/01/09/955087860/can-trump-pardon-himself) asked aides whether a President can pardon oneself. I suppose he was asking for a friend."
     },
 
@@ -362,18 +389,21 @@
     "slug": "google-ai-drone",
     "title": "Droning On",
     "images": [ "ai_drone_01.png", "ai_drone_02.png" ],
+    "wiki": "Joint Enterprise Defense Infrastructure",
     "markdown": "When Google failed to secure a lucritive Pentagon contract due to their [pesky employees' standards of ethics](https://www.washingtonpost.com/news/the-switch/wp/2018/06/01/google-to-drop-pentagon-ai-contract-after-employees-called-it-the-business-of-war/), Zeno, who has no such standards, cashes in."
     },
 
     {
     "slug": "commuter-scooter-polluter",
     "title": "Commuter Scooter Polluter",
+    "wiki": "Lime (transportation company)",
     "images": [ "Scooter.png" ]
     },
 
     {
     "slug": "facebook-collects-your-face",
     "title": "DNA, MUA, Oy Vey",
+    "wiki": "Facebook–Cambridge Analytica data scandal",
     "images": [ "Facebook_Data_01.png", "Facebook_Data_02.png" ]
     },
 
@@ -381,12 +411,14 @@
     "slug": "smoking-gun",
     "title": "Say Hello to my Little Friend",
     "bestof": "true",
+    "wiki": "Gun politics in the United States",
     "images": [ "Smoking_Gun.png" ]
     },
 
     {
     "slug": "shape-of-water",
     "title": "I'd Like to Tank the Academy",
+    "wiki": "The Shape of Water",
     "images": [ "Shape_Of_Water.png" ]
     },
 
@@ -394,12 +426,14 @@
     "slug": "trump-card",
     "title": "Loyaly has its Discords",
     "images": [ "Loyalty_Program.png" ],
+    "wiki": "Jeff Sessions", 
     "markdown": "It always amazed me how people stay loyal to Trump even as he publicly humiliates them. I wonder, what dirt he must have had on Jeff Sessions to keep his Attorney General puckering up despite the [well-documented verbal abuse](https://www.cnn.com/2018/02/28/politics/donald-trump-jeff-sessions-feud/index.html)?"
     },
 
     {
     "slug": "wakandan-tech",
     "title": "Not Suitable for the MCU",
+    "wiki": "Wakanda",
     "images": [ "Wakandan_Tech.png" ]
     },
 
@@ -407,36 +441,42 @@
     "slug": "gun-lobby",
     "title": "Kicking Back in the Gun Lobby",
     "bestof": "true",
+    "wiki": "Gun politics in the United States",
     "images": [ "Gun_Lobby_01.png", "Gun_Lobby_02.png", "Gun_Lobby_03.png" ]
     },
 
     {
     "slug": "tech-games",
     "title": "Tech Games 2018",
+    "wiki": "2018 Winter Olympics",
     "images": [ "Tech_Games_2018.png" ]
     },
 
     {
     "slug": "military-parade",
     "title": "Propped Up",
+    "wiki": "Planned 2018 Washington Veterans Day Parade",
     "images": [ "Military_Parade.png" ]
     },
 
     {
     "slug": "amazon-watch",
     "title": "You're Being Watched",
+    "wiki": "Apple Watch",
     "images": [ "Amazon_Patent.png" ]
     },
 
     {
     "slug": "deep-state",
     "title": "Cult of Dolt",
+    "wiki": "Deep state",
     "images": [ "Deep_State.png" ]
     },
 
     {
     "slug": "bricked-iphone",
     "title": "Bricked Device", 
+    "wiki": "Problematic smartphone use",
     "images": [ "non-addictive-iPhone.png" ]
     },
 
@@ -444,18 +484,21 @@
     "slug": "doomsday-clock",
     "title": "Bloom and Doom",
     "bestof": "true",
+    "wiki": "Doomsday Clock",
     "images": [ "Doomsday.png" ]
     },
 
     {
     "slug": "president-jello",
     "title": "Watch it Wiggle",
+    "wiki": "Jell-O",
     "images": [ "Jello.png" ]
     },
 
     {
     "slug": "shithol-president",
     "title": "About that Umla&uuml;t&hellip;",
+    "wiki": "Racial views of Donald Trump",
     "images": [ "Greta_from_Norway.png" ]
     },
 
@@ -463,6 +506,7 @@
     "slug": "timeboxed",
     "title": "Out of the Box Thinking",
     "bestof": "true",
+    "wiki": "Time travel",
     "images": [ "Timeboxed.png" ]
     },
 
@@ -470,24 +514,28 @@
     "slug": "baby-proofed-whitehouse",
     "title": "Grand Old Potty",
     "bestof": "true",
+    "wiki": "Robert Mueller",
     "images": [ "baby_proofed.png" ]
     },
 
     {
     "slug": "blade-runner",
     "title": "Blade Ruiner",
+    "wiki": "Blade Runner",
     "images": [ "blade_runner.png" ]
     },
 
     {
     "slug": "tax-reform",
     "title": "A Massive Rewrite",
+    "wiki": "Tax reform",
     "images": [ "tax_reform.png" ]
     },
     
     {
     "slug": "im-from-nambia",
     "title": "Fantastic Places!",
+    "wiki": "Fictional country",
     "images": [ "nambia.png" ]
     },
     
@@ -495,24 +543,28 @@
     "slug": "face-id",
     "title": "Face-off",
     "bestof": "true",
+    "wiki": "Face ID",
     "images": [ "Face_ID.png" ]
     },
 
     {
     "slug": "equifax-data-breach",
     "title": "The 'fax Guarding the Henhouse",
+    "wiki": "2017 Equifax data breach",
     "images": [ "Equifax.png" ]
     },
     
     {
     "slug": "subway-religion",
     "title": "Subway Religion",
+    "wiki": "Religion",
     "images": [ "subway_religion.jpg" ]
     },
 
     {
     "slug": "removing-george-hw-bush",
     "title": "Remove a Lame Duck",
+    "wiki": "Lame duck (politics)",
     "images": [ "removing-bush.jpg" ],
     "markdown": "**Here's how it works:** When lame-duck president signs pardons, scale **(A) ** tips, lifting cover off Hillary Clinton's superior cookies **(B)**. Angered, Barbara reaches for her spatula **(C)**, tugging typewriter **(D)** away from Millie who is scribing her tell-all autobiography *How I Ran the Presidency Without Even Getting a Biscuit.* Millie rushes for the typewriter, causing leash **(E)** to pull trap-door lever **(F)**, sending George Bush into a bottomless pit of obscurity where Reagan, Carter, Ford and Nixon await him."
     },
@@ -520,6 +572,22 @@
     {
     "slug": "mad-man-dans-internet",
     "title": "The Internet in 6 Easy Steps",
+    "wiki": "Internet",
     "images": [ "madman_dan.jpg" ]
+    },
+
+    {
+    "slug": "onomatopoeia",
+    "title": "No One Can Hear You Scream",
+    "wiki": "Onomatopoeia (comics)",
+    "images": [ "Onomatopoeia-1.png", "Onomatopoeia-2.png", "Onomatopoeia-3.png", "Onomatopoeia-4.png" ]
+    },
+    
+    {
+    "slug": "clone-wars",
+    "title": "The Clone Wars",
+    "wiki": "Cloning",
+    "description": "Zeno clones 40 million fruit flies to comedic effect",
+    "images": [ "cloning_01.png", "cloning_02.png" ]
     }
 ]

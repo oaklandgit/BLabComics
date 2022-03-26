@@ -7,6 +7,7 @@ app = Flask('app')
 app.jinja_env.trim_blocks = True
 app.jinja_env.lstrip_blocks = True
 
+# JINJA FUNCTIONS
 @app.template_filter('md')
 def md(text):
     return markdown.markdown(text)
@@ -14,6 +15,8 @@ def md(text):
 @app.template_filter('wiki2keywords')
 def wiki(text):
     return ", ".join(wikipedia.search(text))
+
+# FETCH DATA
 
 def getItems(path):
     file = open(path)
@@ -24,6 +27,11 @@ def getItems(path):
 CONTENT = 'comics.json'
 JSON_PATH = os.path.join(app.static_folder, CONTENT)
 ITEMS = getItems(JSON_PATH)
+
+# 404
+@app.errorhandler(404)
+def page_not_found(error):
+   return render_template('404.jinja'), 404
 
 # HOME
 @app.route('/')
@@ -46,6 +54,7 @@ def random():
 # DETAIL PAGE
 @app.route('/comics/<slug>/')
 def detail(slug):
+    
     idx, item = [(index, row) for index, row in enumerate(ITEMS) if row['slug'] == slug][0]
     
     if idx < len(ITEMS) - 1:

@@ -14,7 +14,7 @@
 <div class="imageGroup">
 {% for image in item.images %}
     <div class="imgContainer">
-    <img src="{{ url_for('static', filename='full2x/' ~ image) }}" alt="{{ item.description }}{% if loop.index > 1 %} (Part {{ loop.index }}){% endif %}">
+        <img src="{{ url_for('static', filename='full2x/' ~ image) }}" alt="{{ item.description }}{% if loop.index > 1 %} (Part {{ loop.index }}){% endif %}">
     </div>
 {% endfor %}
 </div>
@@ -24,9 +24,9 @@
 {% endif %}
 
 <div id="paging">
-<a href="/comics/" title="Back"><i class="fa-solid fa-arrow-left-long"></i></a>  
-<a href="/random/" title="I'm feeling lucky!"><i class="fa-solid fa-dice"></i></a>
-<a href="/comics/{{ next.slug }}" title="More hilarity"><i class="fa-solid fa-arrow-right-long"></i></a>
+    <a href="/comics/" title="Back"><i class="fa-solid fa-arrow-left-long"></i></a>  
+    <a href="/random/" title="I'm feeling lucky!"><i class="fa-solid fa-dice"></i></a>
+    <a href="/comics/{{ next.slug }}" title="More hilarity"><i class="fa-solid fa-arrow-right-long"></i></a>
 </div>
 
 {% endblock %}

@@ -54,13 +54,19 @@ def random():
 # DETAIL PAGE
 @app.route('/comics/<slug>/')
 def detail(slug):
+
+    matches = [(index, row) for index, row in enumerate(ITEMS) if row['slug'] == slug]
+
+    if len(matches) == 0:
+        return render_template('404.jinja'), 404
     
-    idx, item = [(index, row) for index, row in enumerate(ITEMS) if row['slug'] == slug][0]
-    
+    idx, item = matches[0]
+
     if idx < len(ITEMS) - 1:
         next = ITEMS[idx + 1]
     else:
         next = ITEMS[0]
+        
     return render_template('detail.jinja', item=item, next=next)
 
 # ABOUT

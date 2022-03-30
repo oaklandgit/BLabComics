@@ -155,18 +155,22 @@
     "slug": "future-seder",
     "title": "The Coming Plague",
     "images": [ "seder-of-future.png"],
-    "wiki": "Passover Seder"
+    "wiki": "Passover Seder",
+    "description": "Zeno invents the Passover Seder of the future."
     },
 
     {
     "slug": "trump-robot",
     "title": "Shooting His Mouth Off",
-    "images": [ "trump-robot-2.png"]
+    "images": [ "trump-robot-2.png"],
+    "wiki": "American-led intervention in the Syrian civil war",
+    "description": "Zeno outfits his Trump Robot with cruise missiles."
     },
 
     {
     "slug": "amazon-alexa",
     "title": "Miss Information",
+    "description": "Dijon the Armadillo discovers his virtual assistant is not everything it seems.",
     "images": [ "alexa-01.png", "alexa-02.png", "alexa-03.png", "alexa-04.png", "alexa-05.png" ],
     "wiki": "Amazon Alexa"
     },
@@ -180,7 +184,7 @@
     },
 
     {
-    "slug": "pledge-week",
+    "slug": "cuts-to-the-arts",
     "title": "A Captive Audience",
     "images": [ "npr-waterboarding.png" ],
     "wiki": "NPR"
@@ -553,6 +557,137 @@
     "wiki": "2017 Equifax data breach",
     "images": [ "Equifax.png" ]
     },
+
+    {
+    "slug": "our-sponsor",
+    "title": "An Unlikely Sponsor",
+    "wiki": "Garfield",
+    "images": [ "garfield_01.png" ],
+    "description": "It turns out this comic strip is sponsored by Garfield. Who knew?",
+    "markdown": "With apologies to Jim Davis."
+    },
+
+    {
+    "slug": "iphone-prototype",
+    "title": "An iPhone Walks Into a Bar",
+    "wiki": "iPhone 4",
+    "description": "U-Gene finds an iPhone 4 prototype in bar in Redwood City.",
+    "images": [ "iphone_01.png", "iphone_02.png" ]
+    },
+
+    {
+    "slug": "hololens-95",
+    "title": "Hololens '95",
+    "wiki": "Microsoft HoloLens",
+    "description": "U-Gene experiences the Microsoft Hololens for the first time.",
+    "images": [ "1-hololens.png", "2-hololens.png", "3-hololens.png", "4-hololens.png", "5-hololens.png" ]
+    },
+
+    {
+    "slug": "self-walking-pedestrians",
+    "title": "Watch Where We're Going",
+    "wiki": "Self-driving car",
+    "description": "In response to self-driving cars, Zeno invents self-walking pedestrians. Hilarity ensues.", 
+    "images": [ "1-ugene-selfdriving-2015-mon.png", "2-ugene-selfdriving-2015-tues.png", "3-ugene-selfdriving-2015-wed.png", "4-ugene-selfdriving-2015-thurs.png"]
+    },
+
+    {
+    "slug": "wearable-tech",
+    "title": "Worn Out",
+    "wiki": "Wearable technology",
+    "description": "U-Gene gets an Apple Tongue Ring.",
+    "images": [ "wearable-tech-mon-web.png" ]
+    },
+
+    {
+    "slug": "alternative-fuels",
+    "title": "Sm&ouml;gvergn&uuml;gen",
+    "wiki": "Volkswagen emissions scandal",
+    "description": "U-Gene's jetpack is recalled by the EPA.",
+    "images": [ "1-vw.png", "2-vw.png", "3-vw.png", "4-vw.png", "5-vw.png" ]
+    },
+
+    {
+    "slug": "half-dead-cat",
+    "title": "Only Half Joking",
+    "wiki": "Schrödinger's cat",
+    "description": "Zeno brings a half-dead cat to the lab.",
+    "images": [ "dead-cat-mon.png", "dead-cat-tues.png", "dead-cat-wed.png" ]
+    },
+    
+    {
+    "slug": "proxy-battle",
+    "title": "Proxy Battle",
+    "wiki": "Social robot",
+    "description": "Zeno leaves a proxy robot with the lab to watch over things while he's gone.",
+    "images": [ "zeno_proxy.png", "zeno_proxy02.png", "zeno_proxy03.png"]
+    },
+
+    {
+    "slug": "girlscout-petra",
+    "title": "Knot Your Mother's Girl Scouts",
+    "wiki": "Girl Scouts of the USA",
+    "description": "U-Gene greatly underestimates Zeno's niece Petra.",
+    "images": [ "knots.png" ]    
+    },
+
+    {
+    "slug": "stranger-things",
+    "title": "Fringe Binge",
+    "wiki": "Stranger Things",
+    "description": "Zeno erases U-Gene's memory so that he can enjoy Stranger Things Season One all over again.",
+    "bestof": "true",
+    "images": [ "brain-drain.png" ]
+    },
+
+    {
+    "slug": "b-lab-j-school",
+    "title": "B-Lab J-School",
+    "wiki": "False balance",
+    "description": "Zeno explains the concept of False Balance, also known as bothsidesism, in which journalists present an issue as being more balanced between opposing viewpoints than the evidence supports.",
+    "images": [ "news-biz.png" ]
+    },
+
+    {
+    "slug": "get-alarmed",
+    "title": "Zeno's App of the Week",
+    "bestof": "true",
+    "wiki": "World War III",
+    "description": "Zeno builds an app that tells us how the world will end.",
+    "images": [ "alarmed.png" ]
+    },
+
+    {
+    "slug": "pokemon-go",
+    "title": "Augmented Surreality",
+    "wiki": "Pokemon",
+    "description": "U-Gene goes down the Pokemon rabbit hole.",
+    "images": [ "pokemon.png", "pokemon-tues-site.png" ]
+    },
+
+    {
+    "slug": "water-conservation",
+    "title": "Water You Worried About?",
+    "wiki": "Water conservation",
+    "description": "U-Gene gets a notice from the water district congratulating him for saving water.",
+    "images": [ "ugene-water-saving-2015-mon-web.png" ]
+    },
+
+    {
+    "slug": "i-look-like-an-engineer",
+    "title": "STEM the Ignorance",
+    "wiki": "I Look Like an Engineer",
+    "description": "When meeting Zeno's technically-minded niece, U-Gene's sexist attitudes bubble to the surface.",
+    "images": [ "2-girl-engineer-tue.png", "3-girl-engineer-wed.png", "4-girl-engineer-thu.png", "5-girl-engineer-fri.png" ]
+    },
+
+    {
+    "slug": "scotus-hearings",
+    "title": "Why Am I Dredding This",
+    "wiki":  "Merrick Garland Supreme Court nomination",
+    "description": "Zeno suggests an unusual nominee for the Supreme Court vacancy left by Antonin Scalia.",
+    "images": [ "blab-dredd-MON.png" ]
+    },
     
     {
     "slug": "subway-religion",
@@ -562,11 +697,19 @@
     },
 
     {
-    "slug": "removing-george-hw-bush",
-    "title": "Remove a Lame Duck",
+    "slug": "voting-machine-patent",    
+    "title": "Patent No. US-20220051503-A1",
+    "wiki": "Voting machine",
+    "images": [ "vote-o-matic.jpg" ],
+    "markdown": "**Exercise your right to vote &mdash; without all the exercise!**\n\n**Here's how it works:** When inexplicably undecided voter **(A)** views last-minute campaign ads **(B)**, emotional responses are gathered via electrode cap **(C)**. Microcomputer **(D)** translates results into motor-impulse signals, which are sent via transmitter **(E)** to brain of trained gibbon **(F)**. Voila! You've been spared the discomfort often associated with making decisions."
+    },
+    
+    {
+    "slug": "lame-duck-removal-patent",
+    "title": "Patent No. US-11252952-B2",
     "wiki": "Lame duck (politics)",
     "images": [ "removing-bush.jpg" ],
-    "markdown": "**Here's how it works:** When lame-duck president signs pardons, scale **(A) ** tips, lifting cover off Hillary Clinton's superior cookies **(B)**. Angered, Barbara reaches for her spatula **(C)**, tugging typewriter **(D)** away from Millie who is scribing her tell-all autobiography *How I Ran the Presidency Without Even Getting a Biscuit.* Millie rushes for the typewriter, causing leash **(E)** to pull trap-door lever **(F)**, sending George Bush into a bottomless pit of obscurity where Reagan, Carter, Ford and Nixon await him."
+    "markdown": "**Remove Lame-Duck President In One Fowl Swoop**\n\n**Here's how it works:** When chief executive signs last-minute pardons, scale **(A) ** tips, lifting cover off Hillary Clinton's superior cookies **(B)**. Angered, Barbara reaches for her spatula **(C)**, tugging typewriter **(D)** away from Millie who is scribing her tell-all autobiography *How I Ran the Presidency Without Even Getting a Biscuit.* Millie rushes for the typewriter, causing leash **(E)** to pull trap-door lever **(F)**, sending George Bush into a bottomless pit of obscurity where Reagan, Carter, Ford and Nixon await him."
     },
 
     {

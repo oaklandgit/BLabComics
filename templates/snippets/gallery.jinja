@@ -3,7 +3,7 @@
 {% for item in items %}
     <div class="galleryItem">
         <a href="/comics/{{ item.slug }}">
-            <img class="teaser" title="{{ item.title }}" src="{{ url_for('static', filename='thumbs2x/' ~ item.images[0]) }}" alt="{{ item.description }}">
+            <img class="teaser" src="{{ url_for('static', filename='thumbs2x/' ~ item.images[0]) }}" alt="{{ item.description }}">
             <span class="galleryCaption">{{ item.title }}</span>
         </a>
     </div>

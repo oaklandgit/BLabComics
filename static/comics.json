@@ -19,6 +19,31 @@
     },
 
     {
+    "slug": "read-the-manual",
+    "title": "Not the Droid You're Looking For",
+    "wiki": "RTFM",
+    "images": [ "rtfm.png" ],
+    "description": "When U-Gene has a tech issue, Zeno's IT robot is remarkably unhelpful.",
+    "bestof": "true"
+    },
+
+    {
+    "slug": "baby-border-wall",
+    "title": "Pacifying the President",
+    "wiki": "Trump wall",
+    "images": [ "baby-border-wall.png" ],
+    "description": "Zeno invents a toy border wall to calm Trump's tantrums.",
+    "bestof": "true"
+    },
+
+    {
+    "slug": "a-very-trump-christmas",
+    "title": "An X-Mas Visit from a Man in Red",
+    "images": [ "trump-christmas.jpg" ],
+    "description": "Donald Trump is sad and alone on Christmas when he gets a visit from a very special man in red."
+    },
+
+    {
     "slug": "always-disgusting",
     "title": "Puke-ular Escalation",
     "wiki": "Unite the Right rally",

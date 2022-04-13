@@ -14,15 +14,24 @@
     <meta name="keywords" content="Web comic, {{ keywords | default("Webcomic, comic strip") }}">
     <meta property="og:title" content="B-Lab: {{ pageTitle }}" />
     <meta property="og:image" content="https://blabcomic.com/static/full2x/{{ metaImage }}" />
+    
     <!-- FONT AWESOME -->
-{#     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> #}
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/brands.min.css">
-
-
     <link rel="stylesheet" href="/static/styles.css">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-24B60TNM4R"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-24B60TNM4R');
+    </script>
     
     <title>B-Lab: {{ pageTitle }}</title>
+
 </head>
 <body>
     <div id="container">

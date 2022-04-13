@@ -10,6 +10,24 @@
     },
 
     {
+    "slug": "kondo-minimum",
+    "title": "Kondo Minimum",
+    "wiki": "Marie Kondo",
+    "images": [ "kondo-minimum.png"],
+    "description": "U-Gene gets rid of all of Zeno's stuff that doesn't spark joy.",
+    "bestof": "true"
+    },
+
+    {
+    "slug": "always-disgusting",
+    "title": "Puke-ular Escalation",
+    "wiki": "Unite the Right rally",
+    "images": [ "always-disgusting.png" ],
+    "description": "U-Gene doesn't care about Trump's divisive rhetoric until it comes for his wallet.",
+    "bestof": "true"
+    },
+
+    {
     "slug": "rancous-keyboard",
     "title": "Much-Needed Input",
     "wiki": "Alt-right",

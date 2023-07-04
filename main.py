@@ -73,9 +73,3 @@ def detail(slug):
 @app.route('/about/')
 def about():
   return render_template('about.jinja')
-
-# @app.route('/game/')
-# def game():
-#   return render_template('game.jinja')
-    
-# app.run(host='0.0.0.0', port=8080)

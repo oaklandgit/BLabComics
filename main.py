@@ -32,11 +32,6 @@ ITEMS = getItems(JSON_PATH)
 @app.errorhandler(404)
 def page_not_found(error):
    return render_template('404.jinja'), 404
-
-# CONFIRM GOOGLE
-@app.route('/' + os.environ['google'] + '.html')
-def goog():
-    return render_template(os.environ['google'] + '.html')
     
 # HOME
 @app.route('/')

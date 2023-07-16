@@ -35,14 +35,16 @@ def page_not_found(error):
 
 # QR Gag
 @app.route('/qr-comic/panel01.png')
-def qr_comic(panel):
-    item = {
-        "slug": "qr-gag-01",
-        "title": "QR Gag Panel 1",
-        "images": [ "panel01.png" ],
-        "bestof": "false"
-        }
-    return render_template('detail.jinja', item=item)
+def qr_01():
+    return redirect("/static/assets/panel01.png", code=302)
+
+@app.route('/qr-comic/panel02.png')
+def qr_02():
+    return redirect("/static/assets/panel02.png", code=302)
+
+@app.route('/qr-comic/panel03.png')
+def qr_03():
+    return redirect("/static/assets/panel03.png", code=302)
     
 # HOME
 @app.route('/')

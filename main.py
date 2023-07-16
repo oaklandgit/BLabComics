@@ -32,6 +32,11 @@ ITEMS = getItems(JSON_PATH)
 @app.errorhandler(404)
 def page_not_found(error):
    return render_template('404.jinja'), 404
+
+# QR Gag
+@app.route('/qr-comic/panel<panel>.png')
+def qr_comic(panel):
+    return send_file('/assets/panel' + panel + '.png', mimetype='image/png')
     
 # HOME
 @app.route('/')

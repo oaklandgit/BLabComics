@@ -174,13 +174,6 @@
   },
 
   {
-    "slug": "usps-spam-service",
-    "title": "We Deliver for You!",
-    "images": ["spam-and-junkmail.png"],
-    "description": "U-Gene realizes the US Postal Service's Informed Delivery email feature is a novel new way to receive more junk mail."
-  },
-
-  {
     "slug": "mothers-day",
     "title": "All About My Mother",
     "images": ["mothers-day.png"],
@@ -542,28 +535,6 @@
   },
 
   {
-    "slug": "shape-of-water",
-    "title": "I'd Like to Tank the Academy",
-    "wiki": "The Shape of Water",
-    "images": ["Shape_Of_Water.png"]
-  },
-
-  {
-    "slug": "trump-card",
-    "title": "Loyaly has its Discords",
-    "images": ["Loyalty_Program.png"],
-    "wiki": "Jeff Sessions",
-    "markdown": "It always amazed me how people stay loyal to Trump even as he publicly humiliates them. I wonder, what dirt he must have had on Jeff Sessions to keep his Attorney General puckering up despite the [well-documented verbal abuse](https://www.cnn.com/2018/02/28/politics/donald-trump-jeff-sessions-feud/index.html)?"
-  },
-
-  {
-    "slug": "wakandan-tech",
-    "title": "Not Suitable for the MCU",
-    "wiki": "Wakanda",
-    "images": ["Wakandan_Tech.png"]
-  },
-
-  {
     "slug": "gun-lobby",
     "title": "Kicking Back in the Gun Lobby",
     "bestof": "true",
@@ -681,23 +652,6 @@
   },
 
   {
-    "slug": "our-sponsor",
-    "title": "An Unlikely Sponsor",
-    "wiki": "Garfield",
-    "images": ["garfield_01.png"],
-    "description": "It turns out this comic strip is sponsored by Garfield. Who knew?",
-    "markdown": "With apologies to Jim Davis."
-  },
-
-  {
-    "slug": "iphone-prototype",
-    "title": "An iPhone Walks Into a Bar",
-    "wiki": "iPhone 4",
-    "description": "U-Gene finds an iPhone 4 prototype in bar in Redwood City.",
-    "images": ["iphone_01.png", "iphone_02.png"]
-  },
-
-  {
     "slug": "hololens-95",
     "title": "Hololens '95",
     "wiki": "Microsoft HoloLens",
@@ -746,14 +700,6 @@
     "wiki": "Schrödinger's cat",
     "description": "Zeno brings a half-dead cat to the lab.",
     "images": ["dead-cat-mon.png", "dead-cat-tues.png", "dead-cat-wed.png"]
-  },
-
-  {
-    "slug": "proxy-battle",
-    "title": "Proxy Battle",
-    "wiki": "Social robot",
-    "description": "Zeno leaves a proxy robot with the lab to watch over things while he's gone.",
-    "images": ["zeno_proxy.png", "zeno_proxy02.png", "zeno_proxy03.png"]
   },
 
   {
